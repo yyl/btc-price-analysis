@@ -11,5 +11,3 @@
 - https://www.otexts.org/fpp/4/8
 - http://www.kaggle.com/c/informs2010
 
-
-## test test
