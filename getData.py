@@ -11,4 +11,4 @@ with open("./data.csv", "a+") as f:
         param = {'page': i}
         r = requests.get(REQUEST, params=param)
         if r.status_code == 200:
-            f.write(r.text)
+            f.write(r.text+"\n")
