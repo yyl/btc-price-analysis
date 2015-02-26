@@ -19,4 +19,4 @@ Our first objective is to see if the common algorithms that work well on regular
 
 - https://www.otexts.org/fpp/4/8
 - http://www.kaggle.com/c/informs2010
-
+- Glossary: https://support.coinbase.com/customer/portal/articles/1833695-bitcoin-glossary
