@@ -15,6 +15,12 @@ Our first objective is to see if the common algorithms that work well on regular
 - split them into training and testing set
 - train model on training set and validate on testing
 
+
+todo
+- basic financial analysis
+- google trend paper
+- add volume data?
+
 ## Resources
 
 - https://www.otexts.org/fpp/4/8
