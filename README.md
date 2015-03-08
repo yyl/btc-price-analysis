@@ -15,11 +15,9 @@ Our first objective is to see if the common algorithms that work well on regular
 - split them into training and testing set
 - train model on training set and validate on testing
 
+## notebooks
 
-todo
-- basic financial analysis
-- google trend paper
-- add volume data?
+- Basic analysis: [link](http://nbviewer.ipython.org/github/yyl/btc-price-analysis/blob/master/basics.ipynb)
 
 ## Resources
 
