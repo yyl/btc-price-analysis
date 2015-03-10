@@ -8,16 +8,13 @@ Motivate more: why BTC price prediction is different from regular stock price pr
 
 Our first objective is to see if the common algorithms that work well on regular price prediction still works on BTC price.
 
-## 1. Trend prediction for fixed size of data
+## Timeline?
 
-- ~~download a fixed amount of historic data~~
-- basic financial analysis, also find the right variables to use/predict
-- split them into training and testing set
-- train model on training set and validate on testing
-
-## notebooks
-
-- Basic analysis: [link](http://nbviewer.ipython.org/github/yyl/btc-price-analysis/blob/master/basics.ipynb)
+- download a fixed amount of historic data [done]
+- basic financial analysis ([done](http://nbviewer.ipython.org/github/yyl/btc-price-analysis/blob/master/basics.ipynb))
+- google trend paper replicate ([in progress](https://github.com/yyl/btc-price-analysis/blob/master/google_trend.ipynb))
+- bayesian prediction?
+- time-series analysis
 
 ## Resources
 
