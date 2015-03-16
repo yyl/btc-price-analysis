@@ -20,6 +20,7 @@ Our first objective is to see if the common algorithms that work well on regular
 
 - https://www.otexts.org/fpp/4/8
 - http://www.kaggle.com/c/informs2010
-- Glossary: https://support.coinbase.com/customer/portal/articles/1833695-bitcoin-glossary
-- A replicate of google trend paper: http://nbviewer.ipython.org/github/twiecki/replicate_google_trends/blob/master/goog_repl.ipynb
-- bitcoin and google trend: http://www.btcfeed.net/infographics/google-trends-indicate-positive-interest-bitcoin/
+- [Glossary](https://support.coinbase.com/customer/portal/articles/1833695-bitcoin-glossary)
+- A replicate of google trend paper: [link](http://nbviewer.ipython.org/github/twiecki/replicate_google_trends/blob/master/goog_repl.ipynb)
+- bitcoin and google trend: [link](http://www.btcfeed.net/infographics/google-trends-indicate-positive-interest-bitcoin/)
+- hacking google trend API: [link](http://techslides.com/hacking-the-google-trends-api)
