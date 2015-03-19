@@ -73,4 +73,5 @@ def marketData():
                     marketf.write("%s,%s,%s\n" % (bucket_t, entry[-2], entry[-1]))
 
 if __name__ == '__main__':
+    price()
     marketData()
