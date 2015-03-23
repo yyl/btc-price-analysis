@@ -16,6 +16,12 @@ Our first objective is to see if the common algorithms that work well on regular
 - bayesian prediction
 - performance evaluation
 
+## Note
+
+Should probably have the first complete set of mining process done. It should include data preprocessing, training and testing/validation. Let's do first e.g. dual-average algorithm, which is essentially a decision tree model. Then, we move on to google trend algorithm, which is also a decision tree. In both cases, the problem renders to a classification problem. That is, given historic price, label say tomorrow's price to be rise or fall.
+
+The original trading problem is different from a data mining problem, therefore it is necessary to model it into a regular mining problem.
+
 ## Resources
 
 - https://www.otexts.org/fpp/4/8
