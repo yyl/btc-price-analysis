@@ -47,7 +47,7 @@ def marketData():
     init = datetime.strptime(INIT, "%Y-%m-%dT%H:%M:%S")
     # initialize bucket size
     bucket = timedelta(days=BUCKET_SIZE)
-    with open(MARKET_FILE, "w+") as marketf:
+    with open(MARKET_FILE, "a+") as marketf:
         param = {'granularity':GRANULARITY}
         for i in xrange(5):
             # construct proper bucket
