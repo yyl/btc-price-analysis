@@ -29,10 +29,11 @@ OUT_FORMAT = "%Y-%m-%d"
 to_zone = tz.tzutc()
 from_zone = tz.tzlocal()
 # output file name
-MARKET_FILE = './market.csv'
+MARKET_FILE = './data/market.csv'
+PRICE_FILE = './data/price.csv'
 
 def price():
-    with open("./data.csv", "a+") as f:
+    with open(PRICE_FILE, "a+") as f:
         for i in xrange(1, 180):
             print "page %d..." % i
             param = {'page': i}

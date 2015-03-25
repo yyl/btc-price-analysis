@@ -1,3 +1,8 @@
 distribute==0.6.34
+mechanize==0.2.5
+numpy==1.9.2
+python-dateutil==2.4.1
 requests==2.5.1
+scikit-learn==0.16b1
+six==1.9.0
 wsgiref==0.1.2
