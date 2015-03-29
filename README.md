@@ -13,6 +13,7 @@ Our first objective is to see if the common algorithms that work well on regular
 - download a fixed amount of historic data [done]
 - basic financial analysis ([done](http://nbviewer.ipython.org/github/yyl/btc-price-analysis/blob/master/basics.ipynb))
 - google trend paper replicate ([in progress](http://nbviewer.ipython.org/github/yyl/btc-price-analysis/blob/master/google_trend.ipynb))
+  - similar approach through analyzing news headlines (NYT, Guardian, etc)
 - bayesian prediction
 - performance evaluation
 
