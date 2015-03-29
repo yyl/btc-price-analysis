@@ -37,14 +37,16 @@ def bitcoin_news(news_url):
 
 ### scrape news from NYT through standard API
 def scrapeNYT():
+    ## file to save news
+    nyt_file = 'data/nyt.csv'
     nyt_url = "http://api.nytimes.com/svc/search/v2/articlesearch.json"
     ## specify query start and end date
-    bdate = '20150101'
+    bdate = '20120101'
     edate = '20151231'
     params = {
             'begin_date': bdate,
             'end_date':   edate,
-            # filter based on Lucene
+            # filter based on Lucene syntax
             'fq':         'headline:("bitcoin")',
             'api-key':    secrets.NYT_API_KEY, 
             'sort':       'oldest'}
@@ -54,18 +56,19 @@ def scrapeNYT():
         resp_obj = resp.json()
         size = resp_obj['response']['meta']['hits']
         print "====> %s articles from %s to %s" % (size, bdate, edate)
-        ## page through all results
-        p = 0
-        while size > 0:
-            params['page'] = p
-            resp_page = requests.get(nyt_url, params=params)
-            if resp_page.status_code == 200:
-                resp_obj = resp_page.json()
-                docs = resp_obj['response']['docs']
-                for d in docs:
-                    print d['pub_date'], d['headline']['main']
-                p += 1
-                size -= len(docs)
+        with open(nyt_file, 'w+') as f:
+            ## page through all results
+            p = 0
+            while size > 0:
+                params['page'] = p
+                resp_page = requests.get(nyt_url, params=params)
+                if resp_page.status_code == 200:
+                    resp_obj = resp_page.json()
+                    docs = resp_obj['response']['docs']
+                    for d in docs:
+                        f.write('%s,"%s"\n' % (d['pub_date'].encode('utf8'), d['headline']['main'].encode('utf8')))
+                    p += 1
+                    size -= len(docs)
     
 if __name__ == '__main__':
     scrapeNYT()
