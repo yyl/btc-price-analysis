@@ -6,6 +6,7 @@ cssselect==0.9.1
 enum34==1.0.4
 feedfinder2==0.0.1
 feedparser==5.1.3
+ipython==3.0.0
 jieba==0.35
 lxml==3.3.5
 mechanize==0.2.5
