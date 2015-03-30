@@ -7,10 +7,13 @@ import newspaper
 import re
 import secrets
 import requests
+import os
+os.chdir("../")
 
 ### scrape news from various news sites through newspaper lib
+### needs REDO
 def bitcoin_news(news_url):
-    url_file = 'urls.txt'
+    url_file = 'data/urls.txt'
     cnn_source = newspaper.build(news_url, memoize_articles=False)
     print '\n====> Grab %d articles from %s' % (cnn_source.size(), news_url)
     ## extract urls

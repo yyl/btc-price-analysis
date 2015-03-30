@@ -4,6 +4,8 @@ import requests
 from datetime import datetime, timedelta
 import re
 from dateutil import tz
+import os
+os.chdir("../")
 
 # endpoint for historical price
 REQUEST = "https://api.coinbase.com/v1/prices/historical"
