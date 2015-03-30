@@ -53,4 +53,8 @@ docs/_build/
 # PyBuilder
 target/
 
+# added by me
 secrets.py
+.ipynb_checkpoints
+.DS_Store
+*.gz
