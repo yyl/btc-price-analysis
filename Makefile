@@ -1,4 +1,9 @@
 all:
+	python scripts/parseCSV.py 1
 	cd stanford-coreNLP; \
-	java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,parse,sentiment -file input.txt
-	#java -cp "*" -mx5g edu.stanford.nlp.sentiment.SentimentPipeline -file input.txt;
+	java -cp "*" -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP -annotators tokenize,ssplit,pos,parse,sentiment -file ../data/nyt_news.csv -outputDirectory ../data
+	python scripts/parseCSV.py 2
+
+clean:
+	rm data/nyt_news.csv
+	rm data/nyt_news.csv.xml
