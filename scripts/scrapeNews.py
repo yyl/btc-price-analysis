@@ -8,6 +8,7 @@ import re
 import secrets
 import requests
 import os
+import sys
 os.chdir("../")
 
 ### scrape news from various news sites through newspaper lib
@@ -39,9 +40,10 @@ def bitcoin_news(news_url):
     '''
 
 ### scrape news from NYT through standard API
-def scrapeNYT():
+### topic: the keyword to search titles for
+def scrapeNYT(topic):
     ## file to save news
-    nyt_file = 'data/nyt.csv'
+    data_file = 'data/nyt_%s.csv' % topic
     nyt_url = "http://api.nytimes.com/svc/search/v2/articlesearch.json"
     ## specify query start and end date
     bdate = '20120101'
@@ -50,8 +52,8 @@ def scrapeNYT():
             'begin_date': bdate,
             'end_date':   edate,
             # filter based on Lucene syntax
-            'fq':         'headline:("bitcoin")',
-            'api-key':    secrets.NYT_API_KEY, 
+            'fq':         'headline:("%s")' % topic,
+            'api-key':    secrets.NYT_API_KEY,
             'sort':       'oldest'}
     ## get the size of news first
     resp = requests.get(nyt_url, params=params)
@@ -59,7 +61,7 @@ def scrapeNYT():
         resp_obj = resp.json()
         size = resp_obj['response']['meta']['hits']
         print "====> %s articles from %s to %s" % (size, bdate, edate)
-        with open(nyt_file, 'w+') as f:
+        with open(data_file, 'w+') as f:
             ## page through all results
             p = 0
             while size > 0:
@@ -72,9 +74,17 @@ def scrapeNYT():
                         f.write('%s,"%s"\n' % (d['pub_date'].encode('utf8'), d['headline']['main'].encode('utf8')))
                     p += 1
                     size -= len(docs)
-    
+
 if __name__ == '__main__':
-    scrapeNYT()
+    if len(sys.argv) != 3:
+        print "usage:        python scrapeNews.py method_id input_param"
+        print "method_id:    0 - google news (not working), 1 - NYT"
+        print "input_param:  NYT - search keyword"
+        exit(0)
+    method_id = int(sys.argv[1])
+    input_param = sys.argv[2]
+    if method_id == 1:
+        scrapeNYT(input_param)
     '''
     # scrape every popular news source
     for src in newspaper.popular_urls():

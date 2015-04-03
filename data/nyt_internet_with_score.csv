@@ -1,0 +1,1000 @@
+time,headline,sentiment,sentimentValue
+2012-01-05T00:00:00Z,Internet Access Is Not a Human Right,Positive,3
+2012-01-05T10:34:13Z,Internet Access Is Not a Human Right,Positive,3
+2012-01-05T10:34:13Z,Internet Access Is Not a Human Right,Positive,3
+2012-01-06T00:00:00Z,Students of Online Schools Are Lagging,Negative,1
+2012-01-09T15:50:30Z,Be Nice on the Internet Week,Positive,3
+2012-01-09T15:50:30Z,Be Nice on the Internet Week,Positive,3
+2012-01-11T00:00:00Z,A Right to the Internet?,Neutral,2
+2012-01-15T00:00:00Z,"California Leads Nation in Unaccredited Schools, and Enforcement Is Lax",Neutral,2
+2012-01-16T07:00:56Z,This Week in Small Business: Destroying the Internet,Positive,3
+2012-01-16T07:00:56Z,This Week in Small Business: Destroying the Internet,Negative,1
+2012-01-18T00:00:00Z,"In Tech, Starting Up by Failing",Negative,1
+2012-01-18T18:05:04Z,"For Online Protests, Throwing Spaghetti Against the Internet",Negative,1
+2012-01-18T18:05:04Z,"For Online Protests, Throwing Spaghetti Against the Internet",Negative,1
+2012-01-19T00:00:00Z,Online Fracas for a Critic of the Right,Negative,1
+2012-01-19T14:19:53Z,Mike O'Brien Is Famous! (On the Internet),Neutral,2
+2012-01-19T14:19:53Z,Mike O'Brien Is Famous! (On the Internet),Neutral,2
+2012-01-19T21:25:54Z,Candidates Weigh In on Internet Piracy Bills at Debate,Neutral,2
+2012-01-19T21:25:54Z,Candidates Weigh In on Internet Piracy Bills at Debate,Neutral,2
+2012-01-23T00:00:00Z,Internet Antipiracy Bills,Neutral,2
+2012-01-23T07:39:22Z,"Increasing Internet Can Raise G.D.P., Study Says",Negative,1
+2012-01-23T07:39:22Z,"Increasing Internet Can Raise G.D.P., Study Says",Negative,1
+2012-01-25T11:59:14Z,New Books for the Old Internet,Neutral,2
+2012-01-25T11:59:14Z,New Books for the Old Internet,Negative,1
+2012-01-26T00:00:00Z,States’ Drive to Collect Taxes on Internet Sales Is a Blow to Marketers,Negative,1
+2012-01-26T08:18:36Z,States' Drive to Collect Taxes on Internet Sales Is a Blow to Marketers,Positive,3
+2012-01-26T08:18:36Z,States' Drive to Collect Taxes on Internet Sales Is a Blow to Marketers,Positive,3
+2012-01-27T00:00:00Z,Big Victory on Internet Buoys Lobby,Negative,1
+2012-01-27T07:04:33Z,Big Victory on Internet Buoys Lobby,Negative,1
+2012-01-27T07:04:33Z,Big Victory on Internet Buoys Lobby,Negative,1
+2012-01-28T00:00:00Z,Activists Crack China’s Wall of Denial About Air Pollution,Neutral,2
+2012-01-30T09:10:23Z,Technology Companies Confront a Scourge of the Internet,Neutral,2
+2012-01-30T09:10:23Z,Technology Companies Confront a Scourge of the Internet,Neutral,2
+2012-02-06T05:52:00Z,A New Question of Internet Freedom,Negative,1
+2012-02-06T05:52:00Z,A New Question of Internet Freedom,Negative,1
+2012-02-06T13:20:00Z,A New Question of Internet Freedom,Negative,1
+2012-02-07T07:17:38Z,Daily Report: An Internet Art Fair,Neutral,2
+2012-02-07T07:17:38Z,Daily Report: An Internet Art Fair,Neutral,2
+2012-02-08T16:02:15Z,Today's Scuttlebot: A Boldface Internet Name and the First GPS,Neutral,2
+2012-02-08T16:02:15Z,Today's Scuttlebot: A Boldface Internet Name and the First GPS,Positive,3
+2012-02-14T00:00:00Z,American Recounts Beating by Chinese Agents Suspicious of Social Media,Positive,3
+2012-02-15T09:27:26Z,"Comcast's Net Income Increases, Lifted by Internet Subscriptions",Positive,3
+2012-02-16T00:00:00Z,Internet Piracy,Positive,3
+2012-02-21T00:00:00Z,Trademarks Take On New Importance in Internet Era,Negative,1
+2012-02-24T18:07:58Z,"Today's Scuttlebot: Economics for 2012, and China on the Internet",Negative,1
+2012-03-01T06:40:54Z,Speed Bumps and Speed Boosts on the Internet ,Positive,3
+2012-03-01T19:25:07Z,Stations File Suit Against Diller's Internet Distribution Company,Neutral,2
+2012-03-03T00:00:00Z,Pakistan Builds Web Wall Out in the Open,Negative,1
+2012-03-04T00:00:00Z,Two Women Joined by Justin Timberlake,Negative,1
+2012-03-04T00:00:00Z,"In a Flood Tide of Digital Data, an Ark Full of Books",Negative,1
+2012-03-05T00:00:00Z,Actress’s Privacy Lawsuit Challenges a Web Site,Negative,1
+2012-03-11T23:05:58Z,New Internet TV Network to Feature Larry King,Neutral,2
+2012-03-12T00:00:00Z,New Internet TV Network To Feature Larry King,Negative,1
+2012-03-12T07:51:50Z,Media Decoder: New Internet TV Network to Feature Larry King,Negative,1
+2012-03-12T22:01:29Z,Intel Talking to Networks About Internet TV Service,Positive,3
+2012-03-13T00:00:00Z,Use of Homeless as Internet Hot Spots Backfires on Marketer,Negative,1
+2012-03-14T01:48:19Z,"In Indian Homes, Phones and Electricity on Rise but Sanitation and Internet Lagging",Positive,3
+2012-03-14T04:51:54Z,Homeless People as Internet Hot Spots?,Negative,1
+2012-03-15T00:00:00Z,The Fight Club Generation,Negative,1
+2012-03-20T19:15:00Z,City Seeks to Become a New Internet Address ,Negative,1
+2012-03-22T16:52:40Z,Beware an Internet Lothario,Neutral,2
+2012-03-26T00:00:00Z,Microsoft Raids Tackle Internet Crime,Neutral,2
+2012-03-28T00:00:00Z,A Surge in Learning the Language of the Internet,Neutral,2
+2012-03-31T00:00:00Z,"Warned of an Attack on the Internet, and Getting Ready",Neutral,2
+2012-03-31T21:40:26Z,"Warned of an Attack on the Internet, and Getting Ready",Neutral,2
+2012-04-01T00:00:00Z,"After Threats, No Signs of Attack by Hackers",Neutral,2
+2012-04-05T00:00:00Z,A Rose-Colored View May Come Standard,Neutral,2
+2012-04-11T19:28:30Z,Today's Scuttlebot: Female Founders and Internet Freedom,Negative,1
+2012-04-13T00:00:00Z,"When Fists and Kicks Fly on the Subway, It’s Snackman to the Rescue",Negative,1
+2012-04-17T07:19:09Z,Q&A: Revealing Internet Explorer 9's Menus ,Negative,1
+2012-04-24T00:00:00Z,"Facing Cyberattack, Iranian Officials Disconnect Some Oil Terminals From Internet",Neutral,2
+2012-04-24T20:09:54Z,Apple Chief's Offhand Comment Spawns Internet Quip,Neutral,2
+2012-05-03T00:00:00Z,How to Muddy Your Tracks on the Internet,Negative,1
+2012-05-04T09:31:05Z,Morning Buzz: Bringing Internet to the Subway,Positive,3
+2012-05-04T17:59:20Z,ROFLCon: The Internet Goes Offline to Talk Web Culture ,Negative,1
+2012-05-08T15:37:19Z,"Digital Diary: A Weekend Offline, Surrounded by the Internet",Negative,1
+2012-05-09T00:00:00Z,Keeping the Internet Neutral,Neutral,2
+2012-05-09T00:00:00Z,A More Expensive Internet,Neutral,2
+2012-05-09T13:35:04Z,Keeping the Internet Neutral,Negative,1
+2012-05-10T00:00:00Z,So How Do We Talk About This?,Negative,1
+2012-05-11T05:01:37Z,How Should Parents Address Internet Pornography?,Positive,3
+2012-05-18T00:00:00Z,Ultra-Orthodox Jews to Hold Big Meeting on Internet Risks,Positive,3
+2012-05-21T00:00:00Z,Ultra-Orthodox Jews Rally to Discuss Risks of Internet,Positive,3
+2012-05-21T13:52:13Z,A Rally to Discuss the Internet,Neutral,2
+2012-05-22T00:00:00Z,Fastest Internet Connections,Neutral,2
+2012-05-23T00:00:00Z,Partnership to Bring Ultrahigh-Speed Internet to Six Communities,Negative,1
+2012-05-23T14:14:12Z,Partnership to Bring Ultrahigh-Speed Internet to Six Communities,Neutral,2
+2012-05-23T19:17:04Z,Today's Scuttlebot: Cyberspy School and Internet Destruction,Neutral,2
+2012-05-25T00:00:00Z,Keep the Internet Open,Neutral,2
+2012-05-30T07:42:18Z,Malicious E-Mail Attachment on Olympics Making Rounds on the Internet,Positive,3
+2012-06-05T00:00:00Z,"Free Wi-Fi, but Speed Costs",Neutral,2
+2012-06-05T00:00:00Z,"Live and Online, a Game Show Developed for the Internet Age",Neutral,2
+2012-06-11T00:00:00Z,Debunking Rumors of an Internet Takeover,Neutral,2
+2012-06-13T12:44:51Z,Justice Department Is Said to Investigate Cable Companies Over Internet Video,Negative,1
+2012-06-14T00:00:00Z,Adding .app to the Internet,Neutral,2
+2012-06-16T00:00:00Z,"Internet Unshackled, Burmese Aim Venom at Ethnic Minority",Negative,1
+2012-06-17T00:00:00Z,How Depressives Surf the Web,Neutral,2
+2012-06-19T00:00:00Z,Nature Follows a Path of Pixels Into Children’s Hearts,Negative,1
+2012-06-20T00:00:00Z,"He Has Seen the Internet, and It Is Us",Positive,3
+2012-06-21T17:13:25Z,"The Times Co. Names 2 Directors, Including Joi Ito, Internet Entrepreneur",Negative,1
+2012-06-27T00:00:00Z,Sweeping Effects as Broadband Moves to Meters,Positive,3
+2012-06-28T00:00:00Z,Leaving Alabama Behind,Neutral,2
+2012-06-29T00:00:00Z,Families Estranged in the Internet Age,Positive,3
+2012-06-30T00:00:00Z,Dawn Powell’s Diaries for Sale on the Internet,Neutral,2
+2012-07-01T00:00:00Z,"I Took a Web Detour, and Now I Feel Better",Neutral,2
+2012-07-02T08:00:19Z,Are Internet Breaks the New Coffee Breaks?,Positive,3
+2012-07-03T17:41:55Z,Today's Scuttlebot: Ape Language and Internet Influence,Positive,3
+2012-07-06T00:00:00Z,A Victory for the Internet,Negative,1
+2012-07-06T08:30:42Z,U.N. Affirms Internet Freedom as a Basic Right,Negative,1
+2012-07-10T12:20:17Z,The Internet Apocalypse That Wasn't,Positive,3
+2012-07-15T00:00:00Z,"Russia, Shifting From Soviet Ways, Hesitantly Welcomes Volunteers in Flood Zone",Positive,3
+2012-07-18T00:00:00Z,Malls’ New Pitch: Come for the Experience,Neutral,2
+2012-07-19T00:00:00Z,Russian Legislators Approve Greater Government Control Over the Internet and Nonprofits,Positive,3
+2012-07-26T12:45:03Z,"Google Unveils Superfast Internet in Kansas City, Mo.",Neutral,2
+2012-07-28T00:00:00Z,Behind eBay’s Comeback,Neutral,2
+2012-07-28T00:00:00Z,"In Sliding Internet Stocks, Some Hear Echo of 2000",Negative,1
+2012-07-30T21:04:20Z,Alibaba Is Said to Be Close to Raising $8 Billion,Neutral,2
+2012-07-31T00:00:00Z,Chinese Internet Group Is Said To Be Close to Raising $8 Billion,Neutral,2
+2012-07-31T13:46:59Z,New Internet Project for Ricky Gervais,Neutral,2
+2012-08-02T00:00:00Z,Internet Business Lifts Comcast Earnings,Negative,1
+2012-08-03T00:00:00Z,States Up the Ante in Bid to Lure Other States’ Bettors,Neutral,2
+2012-08-03T14:37:32Z,The Long-Term Value of Internet Companies,Negative,1
+2012-08-05T00:00:00Z,Internet Pirates Will Always Win,Negative,1
+2012-08-06T14:20:00Z,Universities Turn to Internet for Virtual Tours,Neutral,2
+2012-08-07T17:10:12Z,Cake Shop Avoids Closing Down,Negative,1
+2012-08-08T00:00:00Z,"Our Extinction, via the Internet",Neutral,2
+2012-08-08T00:00:00Z,Internet Gambling and More Casinos Threaten Shakopee Tribe,Neutral,2
+2012-08-09T00:00:00Z,"$1 Million Each Year for All, as Long as Tribe’s Luck Holds",Positive,3
+2012-08-09T00:00:00Z,Internet Campaign Saves a Rock Club,Positive,3
+2012-08-13T00:00:00Z,Korea Policing the Net. Twist? It’s South Korea.,Negative,1
+2012-08-15T00:00:00Z,Internet Piracy,Neutral,2
+2012-08-15T13:31:52Z,Video: Fifth Graders in 1995 Predict How We'll Use the Internet,Positive,3
+2012-08-16T10:29:29Z,Shine Is Off Wall Street's Big Bet on Internet Start-Ups,Neutral,2
+2012-08-18T00:00:00Z,The Auto Insurance Case That Blew Up on the Internet,Neutral,2
+2012-08-22T00:00:00Z,Internet Analysts Question India’s Efforts to Stem Panic,Positive,3
+2012-08-23T00:00:00Z,An iPod Sleeve That Promises 'Free Internet Everywhere',Negative,1
+2012-08-23T12:20:50Z,"Indian Government Casts a Wide, Puzzling Net Over Internet ",Negative,1
+2012-08-24T13:59:32Z,"At the U.S. Open and Beyond, a Radio Announcer's Internet Odyssey ",Negative,1
+2012-08-29T16:23:39Z,President Obama Takes Questions From the Internet on Reddit,Positive,3
+2012-08-29T16:29:30Z,President Obama Will Take Questions From the Internet on Reddit,Neutral,2
+2012-08-31T20:30:13Z,Feline Film Festival,Neutral,2
+2012-09-01T00:00:00Z,"At Cat Video Film Festival, Stars Purr for Close-Ups",Neutral,2
+2012-09-01T00:00:00Z,AlleyCorp Churns Out Grab Bag of Tech Companies,Positive,3
+2012-09-02T19:39:35Z,HBO Will Offer Channel by Internet in Northern Europe,Negative,1
+2012-09-03T00:00:00Z,HBO Will Offer Channel By Internet in Northern Europe,Neutral,2
+2012-09-05T00:00:00Z,Filial Piety: From Strangling Tigers to Taming the Internet ,Negative,1
+2012-09-05T00:00:00Z,Filial Piety: From Strangling Tigers to Taming the Internet ,Neutral,2
+2012-09-06T00:00:00Z,Filial Piety: From Strangling Tigers to Taming the Internet,Negative,1
+2012-09-10T00:00:00Z,"In One City, Signing Up for Internet Becomes a Civic Cause",Negative,1
+2012-09-10T08:10:48Z,Fill-In | A Film Festival for Internet Cat Videos,Positive,3
+2012-09-10T08:31:12Z,Signing Up for Google Internet Service Becomes a Civic Cause,Negative,1
+2012-09-10T17:57:57Z,Politics and the Pizza Man,Neutral,2
+2012-09-11T00:00:00Z,On The Internet: Getting A Taste of Fame,Neutral,2
+2012-09-12T00:00:00Z,Beck Takes His Conservative Internet Shows to the Dish Network,Neutral,2
+2012-09-17T00:00:00Z,"For a Fee, Streaming Local TV",Negative,1
+2012-09-18T00:00:00Z,"All the TV News Since 2009, on One Web Site",Neutral,2
+2012-09-18T00:00:00Z,Success of Crowdfunding Puts Pressure on Entrepreneurs,Positive,3
+2012-09-18T12:35:28Z,XOXO: A Festival of Indie Internet Creativity,Neutral,2
+2012-09-20T00:00:00Z,"Jordan Limits Protests, and Internet, as Tensions Simmer",Neutral,2
+2012-09-21T14:20:22Z,"Bonus Riff: Ladies and Gentlemen, Please Welcome the Internet",Neutral,2
+2012-09-22T00:00:00Z,"William Duckworth, Internet Composer, Dies at 69",Negative,1
+2012-09-23T00:00:00Z,The Internet? We Built That,Positive,3
+2012-09-23T00:00:00Z,"Power, Pollution and the Internet",Negative,1
+2012-09-23T05:44:18Z,The Internet? We Built That,Positive,3
+2012-09-23T12:17:07Z,"Power, Pollution and the Internet",Neutral,2
+2012-09-24T00:00:00Z,Proposed Bill Could Change Royalty Rates for Internet Radio,Negative,1
+2012-09-24T12:22:14Z,When Internet Factories Come to Town,Negative,1
+2012-09-25T17:45:40Z,Estonia Gets Highest Marks for Internet Freedom,Neutral,2
+2012-09-26T00:00:00Z,The Internet: Puppet Theater for a New Age,Negative,1
+2012-09-26T15:40:08Z,"More Are Watching Internet Video on Actual TVs, Research Shows",Positive,3
+2012-09-27T00:00:00Z,"Finding Fame, and Sometimes Fortune, in Social Media",Negative,1
+2012-09-28T00:00:00Z,A Dirty Internet: How Data Centers Waste Energy,Neutral,2
+2012-09-28T05:53:03Z,Netanyahu's Bomb Explodes on the Internet,Positive,3
+2012-09-28T19:29:21Z,Apple's Plans for Internet Radio Run Up Against Big Music Publisher,Neutral,2
+2012-09-29T00:00:00Z,"Dazzled by a Cute Picture, More Nannies Fall for Swindle",Neutral,2
+2012-09-29T21:39:14Z,The Internet Is Apple’s Achilles’ Heel,Positive,3
+2012-10-01T12:53:34Z,Law Firms Mine San Francisco for Internet Start-Up Gold,Neutral,2
+2012-10-04T00:00:00Z,"Internet Law in Philippines Takes Effect, Raising Fears",Neutral,2
+2012-10-10T00:00:00Z,High Court in Philippines Suspends Contentious Internet Law,Positive,3
+2012-10-15T22:00:54Z,Idea That May Spread Via the Internet,Negative,1
+2012-10-22T17:05:34Z,The Internet Attack That Wasn't,Positive,3
+2012-11-12T11:26:11Z,"Reform and the Internet, With Chinese Characteristics",Negative,1
+2012-11-16T09:41:44Z,"The Breakfast Meeting: Targeted Ads Reshape Online Media, and Gaza Conflict on the Internet",Positive,3
+2012-11-18T00:00:00Z,You Can’t Say That on the Internet,Negative,1
+2012-11-18T05:41:37Z,Opinion: You Can't Say That on the Internet,Negative,1
+2012-11-20T00:00:00Z,Scientists Find Cheaper Way to Ensure Internet Security,Negative,1
+2012-11-20T07:27:34Z,How to Steer Clear of India's Strict Internet Laws,Negative,1
+2012-11-20T08:53:27Z,Daily Report: College of the Future May Be on the Internet,Neutral,2
+2012-11-20T10:45:27Z,Scientists Find Cheaper Way to Ensure Internet Security,Negative,1
+2012-11-22T00:00:00Z,Don’t Ask? Internet Still Tells,Neutral,2
+2012-11-23T00:13:09Z,"Conceived in Haste, India's Internet Law Now Targeted for Change",Neutral,2
+2012-11-24T10:36:22Z,"Conceived in Haste, India’s Internet Law Now Targeted for Change",Negative,1
+2012-11-28T00:00:00Z,Integrity of Internet Is Crux of Global Conference,Negative,1
+2012-11-28T09:16:01Z,Integrity of Internet Is Crux of Global Conference,Neutral,2
+2012-11-29T00:00:00Z,Mediator Joins Contentious Effort to Add a ‘Do Not Track’ Option to Web Browsing,Neutral,2
+2012-11-29T09:17:38Z,Enforcement of India's Internet Law to Be Revised,Positive,3
+2012-11-29T12:09:14Z,Internet Shutdown Reported Across Syria,Negative,1
+2012-11-29T22:26:24Z,India to Revise Enforcement of Internet Law,Negative,1
+2012-11-30T00:00:00Z,Main Airport and Internet Are Disrupted in Syria,Negative,1
+2012-11-30T00:00:00Z,India to Revise Enforcement of Internet Law,Negative,1
+2012-11-30T13:32:21Z,Five Ways Indian Internet Users Are Fighting for Free Speech,Neutral,2
+2012-12-06T13:00:00Z,"To Get Noticed, Chinese Artists Look to Internet",Positive,3
+2012-12-07T00:00:00Z,Hands Off the Internet!,Negative,1
+2012-12-07T00:00:00Z,Drafters of Communications Treaty Are Split on Issue of Internet Governance,Neutral,2
+2012-12-10T00:00:00Z,Internet Freedom Advocates in Tow,Positive,3
+2012-12-13T00:00:00Z,G.O.P. Balks at Plan to Add Airwaves for Mobile Internet and Wi-Fi,Negative,1
+2012-12-13T00:00:00Z,Internet-Driven Fame and Fortune for Mideast Comedians,Negative,1
+2012-12-13T00:00:00Z,"Internet Use in Adoptions Cuts 2 Ways, Report Says",Negative,1
+2012-12-13T00:00:00Z,Global Internet Diplomacy,Negative,1
+2012-12-13T08:13:38Z,Opinion Report: Internet Censorship,Negative,1
+2012-12-14T11:26:00Z,U.S. Rejects Telecommunications Treaty,Negative,1
+2012-12-15T05:33:59Z,Looking for Meaning in Walking Out on the Internet Treaty ,Neutral,2
+2012-12-18T13:48:51Z,Dead Sea Scrolls Go Digital,Neutral,2
+2012-12-18T16:39:51Z,Today's Scuttlebot: Crime Maps and Internet Radio Trouble,Negative,1
+2012-12-20T15:41:20Z,Internet Meme Goes Analog,Neutral,2
+2012-12-21T00:00:00Z,Police Dept. to Use Internet to Try to Stop Mass Shootings,Negative,1
+2012-12-26T10:47:52Z,An Early Tale of the Internet,Negative,1
+2012-12-28T09:39:59Z,"The Breakfast Meeting: Tighter Internet Rules in China, and 'Thunderbirds' Creator Dies",Positive,3
+2012-12-29T00:00:00Z,China Toughens Its Restrictions on Use of the Internet,Neutral,2
+2012-12-29T00:00:00Z,Great Footage! And Jets Notice,Negative,1
+2013-01-07T14:37:46Z,Citigroup's Former Internet Analyst Finds New Home at R.B.C.,Neutral,2
+2013-01-08T00:00:00Z,France Rejects Plan by Internet Provider to Block Online Ads,Negative,1
+2013-01-10T00:00:00Z,Delegation From U.S. Urges Web Access in North Korea,Neutral,2
+2013-01-12T16:45:00Z,The Internet Has Physical Ambitions,Negative,1
+2013-01-13T00:00:00Z,"Internet Activist, a Creator of RSS, Is Dead at 26, Apparently a Suicide",Neutral,2
+2013-01-13T05:32:36Z,"Internet Activist, a Creator of RSS, Is Dead at 26",Positive,3
+2013-01-14T11:27:52Z,"Behind the Veil of the Internet, Students Create a World of Affection",Negative,1
+2013-01-18T16:19:43Z,Should You Check for Internet Access Before a Play Date?,Neutral,2
+2013-01-19T00:00:00Z,Web Tell-All on an Affair Brings Down a Chinese Official,Neutral,2
+2013-01-19T23:04:41Z,"At a Memorial, Love for an Internet Activist and Anger Over His Death ",Negative,1
+2013-01-21T00:00:00Z,Mixed Response to Comcast in Expanding Net Access,Positive,3
+2013-01-21T20:55:00Z,France Proposes an Internet Tax,Neutral,2
+2013-01-23T08:00:58Z,Keeping the Internet Safe From Governments,Positive,3
+2013-01-23T17:56:21Z,"AT&T's TV, Phone and Internet Service Is Down in Some States",Negative,1
+2013-01-24T00:00:00Z,How to Get America Online,Neutral,2
+2013-01-28T20:21:00Z,"Today's Scuttlebot: G.E.'s Internet, and Facebook Search Warning",Positive,3
+2013-01-31T00:00:00Z,Internet and Federal Act Ease Overseas U.S. Voting,Positive,3
+2013-02-12T00:00:00Z,Waste Is Seen in Program to Give Internet Access to Rural U.S.,Positive,3
+2013-02-14T00:00:00Z,Fresh From the Internet’s Attic,Negative,1
+2013-02-15T00:00:00Z,Rabbi Arrested After Trying to Lure Teenage Girl,Negative,1
+2013-02-16T00:00:00Z,"In Britain, an Authority on the Past Stares Down a Nasty Modern Storm",Negative,1
+2013-02-22T00:56:18Z,"North Korea Widens Internet Access, but Just for Visitors",Negative,1
+2013-02-23T00:00:00Z,"In a Slight Shift, North Korea Widens Internet Access, but Just for Visitors",Positive,3
+2013-02-27T00:00:00Z,New Jersey Allows Online Gambling Tied to Its Casinos,Negative,1
+2013-02-27T15:07:34Z,Internet Sleuths Add Evidence to Chinese Military Hacking Accusations,Neutral,2
+2013-03-05T08:05:28Z,"Daily Report: TV Pilots Turn to Internet, Not Networks ",Neutral,2
+2013-03-06T00:00:00Z,You May Now Kiss the Computer Screen,Positive,3
+2013-03-07T00:00:00Z,"Unreported Side Effects of Drugs Are Found Using Internet Search Data, Study Finds",Neutral,2
+2013-03-07T00:00:00Z,Officer&#8217;s Trial Has a Jury That Appears Tech-Savvy,Negative,1
+2013-03-07T12:58:08Z,Apple's Internet Radio Service Said to Be Delayed,Positive,3
+2013-03-12T00:00:00Z,Iran Blocks Way to Bypass Internet Filtering System,Neutral,2
+2013-03-13T00:00:00Z,France Proposes New Rules for Internet Equal Access,Negative,1
+2013-03-13T00:00:00Z,"Fund That Subsidizes Internet for Schools Should Expand, a Senator Says",Neutral,2
+2013-03-14T15:29:37Z,The End of Google Reader Sends Internet Into an Uproar,Neutral,2
+2013-03-21T00:00:00Z,Reaching Those on the Wrong Side of the Digital Divide,Positive,3
+2013-03-21T00:00:00Z,Sex Charges in Connecticut Are Dissected on Internet,Negative,1
+2013-03-23T00:00:00Z,Backer of an Open Internet Steps Down as F.C.C. Chief,Positive,3
+2013-03-24T00:00:00Z,Plug and Play for Internet Connections,Neutral,2
+2013-03-27T00:00:00Z,"Firm Is Accused of Sending Spam, and Fight Jams Internet",Negative,1
+2013-03-27T00:00:00Z,Dispute on Spam Stirs Big Assault on the Internet,Negative,1
+2013-03-27T07:07:39Z,Daily Report: Dispute on Spam Stirs Big Assault on the Internet,Negative,1
+2013-03-28T00:00:00Z,Attacks Used the Internet Against Itself to Clog Traffic,Negative,1
+2013-03-28T00:00:00Z,Attacks Used The Internet Against Itself To Clog Traffic,Neutral,2
+2013-03-28T07:04:52Z,Daily Report: Attacks Used the Internet Against Itself to Clog Traffic,Negative,1
+2013-03-28T20:55:00Z,An Internet Angel for a Documentary,Negative,1
+2013-03-30T00:00:00Z,Devices Like Cable Boxes Figured in Internet Attack,Negative,1
+2013-04-01T00:00:00Z,Russians Selectively Blocking Internet,Negative,1
+2013-04-03T11:00:05Z,Free Internet Access,Negative,1
+2013-04-07T00:00:00Z,Hotels: Free Internet Access,Neutral,2
+2013-04-10T00:01:14Z,Arming Cable Against the Open Internet,Neutral,2
+2013-04-10T05:00:49Z,Do You Ever Seek Advice on the Internet? ,Negative,1
+2013-04-11T12:28:53Z,"Speak Up, the Internet Can't Hear You",Negative,1
+2013-04-12T00:00:00Z,"Internet Speeds Fail to Meet Promises in Germany, Study Shows",Neutral,2
+2013-04-17T00:00:00Z,"Seeking Gun or Selling One, Web Is a Land of Few Rules",Negative,1
+2013-04-22T07:33:59Z,Q&A: Uninstalling Toolbars in Internet Explorer,Negative,1
+2013-04-22T15:24:24Z,"Nollywood: Censored at Home, Available on the Internet",Positive,3
+2013-04-23T00:00:00Z,Internet Sales Tax Bill Gains Ground in Senate,Negative,1
+2013-04-25T00:00:00Z,Amazon Plans an Internet Video Device,Negative,1
+2013-04-25T00:15:23Z,A Messenger for the Internet of Things,Negative,1
+2013-04-27T00:00:00Z,Dutch Man Said to Be Held in Powerful Internet Attack,Negative,1
+2013-04-27T00:00:00Z,Internet Sales Tax Coming Too Late for Some Stores,Negative,1
+2013-04-29T00:00:00Z,Erasing History,Negative,1
+2013-04-29T00:00:00Z,Push to Require Online Sales Tax Divides the G.O.P.,Positive,3
+2013-05-02T00:00:00Z,Cablevision Picks Up Glenn Beck’s Internet Channel,Negative,1
+2013-05-03T19:09:35Z,"Today's Scuttlebot: Internet Cats Sue, and Google Games",Positive,3
+2013-05-06T13:58:28Z,China's Changing Internet Landscape,Neutral,2
+2013-05-07T00:00:00Z,"Facing Black Market, Pfizer Is Looking Online to Sell Viagra",Negative,1
+2013-05-07T02:13:10Z,China's Baidu to Pay $370 Million for Internet Video Business,Neutral,2
+2013-05-07T20:00:44Z,Syria Loses Access to the Internet,Neutral,2
+2013-05-08T15:40:18Z,"Syria, and Pro-Government Hackers, Are Back on the Internet",Neutral,2
+2013-05-10T12:48:22Z,United Nations Agency to Discuss Internet Governance Again,Negative,1
+2013-05-13T21:00:20Z,"Phone Sounds Good, but How Is the Deal?",Negative,1
+2013-05-14T07:00:05Z,"For Local Businesses, the Internet Threat Isn't Just the Sales Tax",Negative,1
+2013-05-17T00:00:00Z,Concerns Arise on U.S. Effort to Allow Internet ‘Wiretaps’,Negative,1
+2013-05-18T00:00:00Z,Sales Taxes and the Internet,Neutral,2
+2013-05-20T00:00:00Z,Eavesdropping on Internet Communications,Positive,3
+2013-05-23T04:30:07Z,Yahoo to Acquire Tumblr in Bold Move by Internet Pioneer,Negative,1
+2013-06-03T00:00:00Z,Apple Is Said to Be Pressing for Internet Radio Deals,Neutral,2
+2013-06-03T14:00:00Z,French Appear Ready to Soften Law on Media Piracy,Negative,1
+2013-06-04T00:00:00Z,Internet Hate Speech,Negative,1
+2013-06-05T00:00:00Z,"Kicked Off Their Flight, Students Turn to Internet",Neutral,2
+2013-06-07T00:00:00Z,Obama Promises to Have High-Speed Internet in Most Schools in 5 Years,Negative,1
+2013-06-07T00:00:00Z,N.S.A. Said to Have Collected Data From Internet Firms,Positive,3
+2013-06-08T00:00:00Z,"U.S. Internet Spying Draws Anger, and Envy",Negative,1
+2013-06-11T00:00:00Z,A New Kind of Leaker for an Internet Age,Positive,3
+2013-06-11T14:48:36Z,Power and Privacy on the Internet,Negative,1
+2013-06-19T12:43:48Z,General Electric Adds to Its 'Industrial Internet',Neutral,2
+2013-06-19T23:09:04Z,"Sizing Up Big Data, Broadening Beyond the Internet",Negative,1
+2013-06-20T09:51:23Z,Chancellor Merkel Discovers the Internet,Positive,3
+2013-06-29T00:00:00Z,Chinese Official Sentenced to 13 Years in Sex Scandal That Was Exposed on Internet,Positive,3
+2013-06-30T00:00:00Z,Jimmy Wales Is Not an Internet Billionaire,Neutral,2
+2013-07-01T02:00:45Z,Student Reading Contest Winner | Internet Surveillance,Neutral,2
+2013-07-03T11:12:46Z,Why Asian Internet Companies Struggle to Become Global,Negative,1
+2013-07-04T00:00:00Z,Lawmakers Question White House Account of an Internet Surveillance Program,Negative,1
+2013-07-15T18:51:07Z,Is Jimmy Wales an Internet Hero?,Positive,3
+2013-07-16T00:00:00Z,Merkel Urges Europe to Tighten Internet Safeguards,Neutral,2
+2013-07-19T16:11:04Z,"Today's Scuttlebot: Internet Phone Attacks, and Data Center Dollars",Negative,1
+2013-07-20T00:00:00Z,F.C.C. Backs Plan to Update a Fund That Helps Connect Schools to the Internet,Negative,1
+2013-07-24T19:20:25Z,"With New Device, Google Tries Again on Internet TV",Neutral,2
+2013-07-26T00:00:00Z,Glenn Britt to Retire as Time Warner Cable Chief,Negative,1
+2013-07-27T00:00:00Z,Turning Off Tracking on the Internet,Negative,1
+2013-08-02T14:00:45Z,From North Korea With Love: A Tablet With No Internet Access,Neutral,2
+2013-08-07T00:00:00Z,U.S. Denounces Vietnam’s New Limits on Dissent on Internet,Neutral,2
+2013-08-14T00:00:00Z,"For Sports Fans, Before the Internet, There Were the Complete Handbooks",Positive,3
+2013-08-15T11:44:10Z,Is the Internet Good for the Climate?,Positive,3
+2013-08-19T17:49:12Z,Can Free Speech and Internet Filters Co-Exist?,Positive,3
+2013-08-21T00:00:00Z,Facebook Leads an Effort to Lower Barriers to Internet Access,Negative,1
+2013-08-23T00:00:00Z,Inequality and the Internet: Why Some Remain Offline,Positive,3
+2013-08-25T00:00:00Z,"Richard Simmons, Internet Star?",Negative,1
+2013-08-27T19:36:34Z,Researcher Controls Another Person's Brain Over the Internet,Negative,1
+2013-08-29T14:29:59Z,Troubles Ahead for Internet Advertising,Negative,1
+2013-08-29T17:41:41Z,Today's Scuttlebot: Prisoners Imagine the Internet,Negative,1
+2013-09-04T09:14:55Z,Start-Up Brings an Internet Sensibility to Time Shares ,Negative,1
+2013-09-05T00:00:00Z,"Jeanette Hayes: The Internet, Rendered in Oil",Negative,1
+2013-09-06T19:42:24Z,Today's Scuttlebot: A Cranky Cryptographer and Taking the Internet Back,Negative,1
+2013-09-09T21:00:26Z,Digital Natives: A Defense of the Internet Community,Neutral,2
+2013-09-10T00:00:00Z,Judges Hear Arguments on Rules for Internet,Negative,1
+2013-09-10T06:03:27Z,Daily Report: Judges Seem Dubious Over F.C.C.'s Open-Internet Rules,Negative,1
+2013-09-11T00:00:00Z,Kimmel Fools Internet With Video of Twerking Gone Wrong,Negative,1
+2013-09-11T00:00:00Z,A Calamity Tailor-Made for Internet Conspiracy Theories,Negative,1
+2013-09-11T00:00:00Z,Some of  China’s Prominent Internet Voices,Neutral,2
+2013-09-12T00:00:00Z,Panel Urges France to Drop Plans to Tax Internet Firms,Neutral,2
+2013-09-12T05:09:39Z,What Are Your Favorite Internet Spoofs?,Neutral,2
+2013-09-16T13:12:58Z,Twitter's Plans May Run Into China's Attitudes Toward the Internet,Negative,1
+2013-09-16T15:02:30Z,Jonathan Franzen Assails the Internet (Again),Negative,1
+2013-09-17T08:26:24Z,China Internet Giant Buys Stake in Search Engine,Neutral,2
+2013-09-24T21:00:38Z,Internet Pioneer RealNetworks Seeks Revival,Neutral,2
+2013-09-25T04:07:25Z,Chinese Internet Giant Alibaba Plans to Issue I.P.O. in New York ,Neutral,2
+2013-09-30T00:00:00Z,Intel and Sony Ambitions for Internet TV Services Meet Skepticism,Neutral,2
+2013-10-01T00:00:00Z,Coca-Cola Plans Kiosks With Water and Internet,Negative,1
+2013-10-01T00:00:00Z,Defining and Demanding a Musician’s Fair Shake in the Internet Age,Negative,1
+2013-10-09T00:00:00Z,Let’s Build a More Secure Internet,Neutral,2
+2013-10-09T09:00:12Z,G.E.'s 'Industrial Internet' Goes Big,Neutral,2
+2013-10-14T00:00:00Z,Google Jousts With Wired South Korea Over Quirky Internet Rules,Negative,1
+2013-10-24T17:39:43Z,Internet Archive Will Shield Visitors,Neutral,2
+2013-10-24T18:47:31Z,"Today's Scuttlebot: New Debate About Sexism, and Battle for Power of the Internet",Negative,1
+2013-10-27T00:00:00Z,"Slaves of the Internet, Unite!",Positive,3
+2013-10-29T00:00:00Z,"Warily, Schools Watch Students on the Internet",Negative,1
+2013-10-29T00:00:00Z,New Jersey School District Cancels Testing After Exams Are Leaked on the Internet,Neutral,2
+2013-10-30T04:33:03Z,6 Q's About the News | Schools Watch Students on the Internet,Positive,3
+2013-10-31T00:00:00Z,Internet Subscribers Aid Growth by Comcast,Negative,1
+2013-11-03T00:00:00Z,Spyware vs. Spyware,Negative,1
+2013-11-05T07:02:52Z,"On the Chinese Internet, Big Interest in Smog's Threat to Fertility",Negative,1
+2013-11-06T00:00:00Z,The Internet and the Rule of Law,Neutral,2
+2013-11-06T12:06:23Z,U.S. Investors Brush Aside Fears About Chinese Internet Companies,Neutral,2
+2013-11-07T00:00:00Z,Internet Kills the Video Store,Negative,1
+2013-11-10T00:00:00Z,How the Internet Has Changed the R.S.V.P.,Neutral,2
+2013-11-13T12:30:40Z,An Old Guitar Finds New Life on the Internet,Neutral,2
+2013-11-14T00:00:00Z,IBM to Announce More Powerful Watson via the Internet,Negative,1
+2013-11-16T00:00:00Z,A Digital Performance That Moves You — Literally,Negative,1
+2013-11-16T00:00:00Z,"Sizing Up the Better Business Bureau, and Its Rivals on the Internet",Negative,1
+2013-11-17T00:00:00Z,Love in the Time Before the Internet,Positive,3
+2013-11-18T21:00:21Z,The Internet: A Welcome Distraction,Negative,1
+2013-11-26T00:00:00Z,N.S.A. May Have Hit Internet Companies at a Weak Spot,Negative,1
+2013-11-26T10:14:29Z,Daily Report: N.S.A. May Have Tapped Internet Cable Links  ,Neutral,2
+2013-11-27T00:00:00Z,New Jersey Now Allows Gambling via Internet,Neutral,2
+2013-11-27T04:35:47Z,Vivendi to Spin Off Its Internet and Mobile Unit,Negative,1
+2013-12-04T18:27:11Z,"Dear Internet, Thank You for Introducing Us",Neutral,2
+2013-12-05T00:00:00Z,Internet Firms Step Up Efforts to Stop Spying,Negative,1
+2013-12-05T07:36:40Z,Daily Report: Internet Giants Push to Improve Secrecy,Neutral,2
+2013-12-23T18:41:11Z,U.S. Mobile Internet Traffic Nearly Doubled This Year,Negative,1
+2013-12-24T13:50:33Z,Is the Internet a Mob Without Consequence?,Positive,3
+2013-12-26T00:00:00Z,"Trove of Information From the 1930s, Animated by the Internet",Neutral,2
+2013-12-29T00:00:00Z,The Fastest Internet Speeds,Negative,1
+2013-12-31T00:00:00Z,Viewing Where the Internet Goes,Negative,1
+2013-12-31T06:55:01Z,Daily Report: Considering the Future of Internet Governance,Neutral,2
+2014-01-02T02:04:06Z,'Saturday Night Live' Comes to China's Internet,Positive,3
+2014-01-06T15:44:29Z,"Twitter, Internet Increasingly Popular for Blacks",Neutral,2
+2014-01-07T12:58:19Z,Wolfram Wants to Connect the Internet of Things,Neutral,2
+2014-01-07T13:14:06Z,Sony Announces Internet-Based TV Service in US,Positive,3
+2014-01-07T17:58:42Z,TV-On-Internet Service Aereo Gets $34M in Funding,Neutral,2
+2014-01-08T00:00:00Z,"Seeking Clues to Gangs and Crime, Detectives Monitor Internet Rap Videos",Neutral,2
+2014-01-08T14:41:39Z,Gadget Watch: The Internet-Connected Toothbrush,Negative,1
+2014-01-08T15:04:11Z,Experts Withdraw From Internet Security Conference,Positive,3
+2014-01-10T08:59:03Z,Spy Fears: Somali Militants Ban Mobile Internet,Negative,1
+2014-01-10T10:52:45Z,New Year's Revelers Destroy Alaska Internet Link,Neutral,2
+2014-01-10T14:55:09Z,Court to Rule on Television Over Internet Service,Positive,3
+2014-01-13T12:12:50Z,U.S. Supreme Court Refuses to Hear Internet Shopping Patent Case,Neutral,2
+2014-01-15T00:02:06Z,Charging Netflix at Issue in Open-Internet Case,Neutral,2
+2014-01-15T17:41:30Z,Internet Access Ruling Raises Netflix Worries,Neutral,2
+2014-01-16T00:00:00Z,A Disappointing Internet Decision,Neutral,2
+2014-01-20T07:23:44Z,Daily Report: Closing In on the Internet-Enabled Home,Positive,3
+2014-01-21T00:36:37Z,"Mystery Surrounds China Internet Outage, Possible Falun Gong Link",Neutral,2
+2014-01-22T03:52:33Z,Massive Internet Mishap Sparks Great Firewall Scrutiny in China,Negative,1
+2014-01-22T12:27:48Z,Ominous Text Message Sent to Protesters in Kiev Sends Chills Around the Internet,Negative,1
+2014-01-22T13:11:22Z,Global Panel to Review Internet Security,Negative,1
+2014-01-22T18:06:17Z,Netflix CEO Says Unlikely Internet Providers Will Block Service,Positive,3
+2014-01-22T19:47:11Z,Internet Community Helps Crack Grandma's Code,Neutral,2
+2014-01-23T00:00:00Z,"Douglas Davis, Newsweek Critic and Internet Artist, Dies at 80",Neutral,2
+2014-01-23T06:01:18Z,Pope: Internet Is a 'Gift From God' for Dialogue,Negative,1
+2014-01-24T00:00:00Z,Embracing the Power of the Internet,Positive,3
+2014-01-24T01:21:56Z,Don't count on China's Internet user numbers,Negative,1
+2014-01-27T16:35:22Z,"Gov't, Internet Companies Reach Deal on Disclosure",Neutral,2
+2014-01-27T21:30:55Z,Did Big Internet Companies Handicap Start-Ups in FISA Rule Changes?,Neutral,2
+2014-01-30T00:00:00Z,Music Data Firms to Collaborate on Internet Radio Platform,Negative,1
+2014-01-30T06:05:04Z,CEOs Seek Better Internet Access in Classrooms,Neutral,2
+2014-02-02T00:00:00Z,F.C.C. Says It Will Double Spending on High-Speed Internet in Schools and Libraries,Negative,1
+2014-02-02T12:57:11Z,Companies Back Fast Internet-In-Schools Initiative,Negative,1
+2014-02-03T16:26:30Z,Internet Firms Release Data on NSA Spy Requests,Negative,1
+2014-02-03T17:37:51Z,U.S. Boosting Investment in High-Speed Internet in Schools by $2 Billion,Neutral,2
+2014-02-04T00:00:00Z,Fast Internet Is Chattanooga’s New Locomotive,Neutral,2
+2014-02-04T03:15:53Z,Internet Firms Release Data on NSA Requests,Neutral,2
+2014-02-04T05:16:43Z,Media Watchdog Warns Against Turkish Internet Bill,Positive,3
+2014-02-04T11:03:44Z,Twitter Rides Mobile Wave in Shifting Internet Landscape,Neutral,2
+2014-02-05T10:08:53Z,Study: 10 US States Eye Internet Gambling Bills,Negative,1
+2014-02-05T12:27:44Z,F.C.C. to Change Program That Connects Schools to High-Speed Internet Service,Neutral,2
+2014-02-05T16:59:00Z,Akamai's Results Beat Estimates as Internet Traffic Surges,Negative,1
+2014-02-05T17:53:54Z,Turkey Approves Internet Restrictions,Negative,1
+2014-02-06T00:00:00Z,Turkey: Internet Curbs Approved,Positive,3
+2014-02-06T01:33:16Z,Turkey Tightens Internet Controls as Government Battles Graft Scandal,Negative,1
+2014-02-06T07:51:03Z,Turkish Internet Restrictions Raise More Concerns,Positive,3
+2014-02-06T15:24:38Z,French Leader in Push to Up Internet Firms' Taxes,Negative,1
+2014-02-06T17:33:48Z,U.S. diplomat's conversation about Ukraine leaked on Internet,Neutral,2
+2014-02-07T00:00:00Z,"Amid Flow of Leaks, Turkey Moves to Crimp Internet",Negative,1
+2014-02-07T10:17:35Z,Bad News for Putin as Sochi Satire Floods Internet,Negative,1
+2014-02-08T07:00:24Z,"An Interview With Helena Price, a Photographer Turned Brazilian Internet Meme",Positive,3
+2014-02-08T12:40:11Z,Turkish Police Fire Tear Gas to Break Up Internet Protest,Negative,1
+2014-02-08T13:10:31Z,Turks Clash With Police Over Internet Legislation,Neutral,2
+2014-02-08T19:03:48Z,"Turkish protesters angry about internet censorship, clash with police",Negative,1
+2014-02-10T00:00:00Z,Industry and Congress Await the F.C.C. Chairman’s Next Moves on Internet Rules,Negative,1
+2014-02-10T10:02:02Z,Turkish Internet Bill Heaps Pressure on President Gul,Negative,1
+2014-02-11T00:00:00Z,Regulate the Internet?,Neutral,2
+2014-02-11T21:13:34Z,The Day the Internet Didn't Fight Back,Neutral,2
+2014-02-12T07:12:40Z,EU Commission Pushes to Dilute U.S. Internet Influence,Positive,3
+2014-02-13T10:37:18Z,Turkish President Sees 'Problems' in Law Tightening Internet Controls,Negative,1
+2014-02-13T20:27:26Z,Hackers Used Previously Unknown Internet Explorer Flaw in New Attacks,Neutral,2
+2014-02-14T00:00:00Z,Connected: Love in the Time of the Internet,Neutral,2
+2014-02-14T23:25:34Z,Kerry Presses China to Ease Internet Controls,Negative,1
+2014-02-15T02:51:34Z,Kerry Offers Support for Internet Freedom in China,Neutral,2
+2014-02-16T10:02:44Z,Saudi Internet Monitors Turn Focus on Syria-Fuelled Radicalism,Negative,1
+2014-02-17T05:08:06Z,China Says Kerry's Call for Internet Freedom Naive,Negative,1
+2014-02-18T14:34:55Z,Turkish President Approves Disputed Internet Law,Negative,1
+2014-02-19T11:10:19Z,U.S. Telecom Regulator Will Write New 'Open Internet' Rules,Neutral,2
+2014-02-19T12:39:56Z,Turkish Internet Controls Ignite Public Anger,Negative,1
+2014-02-19T13:11:01Z,FCC Won't Appeal Ruling on Internet Neutrality,Negative,1
+2014-02-19T18:16:41Z,Times Minute | News on Internet Access,Neutral,2
+2014-02-19T19:52:52Z,"Google Fiber, Ultrahigh-Speed Internet, May Expand to 34 New Cities ",Negative,1
+2014-02-20T02:52:34Z,China Internet giants on a collision course over e-payments,Negative,1
+2014-02-20T05:44:49Z,Times Minute | The Unhealthy Internet,Neutral,2
+2014-02-20T05:46:58Z,Times Minute | The Unhealthy Internet,Neutral,2
+2014-02-22T00:00:00Z,Turkey’s Internet Crackdown,Neutral,2
+2014-02-22T13:36:33Z,Turkish Protesters Denounce Internet Restrictions,Negative,1
+2014-02-23T16:04:45Z,China Banks Strike Back Against Threat From Internet Finance,Negative,1
+2014-02-23T19:45:43Z,"Turks Protest New Internet Restrictions, in the Streets and Online",Negative,1
+2014-02-24T08:18:38Z,WhatsApp to Start Offering Internet Phone Calls,Neutral,2
+2014-02-24T13:46:49Z,"Zuckerberg Takes Long View With WhatsApp, Internet",Neutral,2
+2014-02-24T15:28:16Z,Zuckerberg Says WhatsApp Deal Was a Bargain ,Negative,1
+2014-02-25T11:12:44Z,TiVo Founders Try to Reprogram Internet Video,Negative,1
+2014-02-26T00:32:35Z,China's Internet 'godzillas' stomp overseas,Neutral,2
+2014-02-26T19:11:04Z,Book Talk: Zen Pencils Comic Transcends Internet Into Book Deal,Neutral,2
+2014-02-26T21:05:27Z,Shift to Mobile Internet Hits Baidu Profit,Neutral,2
+2014-02-27T09:57:52Z,China's Xi to Run Internet Security Body: State Media,Neutral,2
+2014-02-28T05:04:06Z,"Russian Court Puts Putin Foe Under House Arrest, Bars Internet Use",Negative,1
+2014-03-01T00:00:00Z,"Court Orders House Arrest, and No Internet, for Fierce Critic of Putin",Negative,1
+2014-03-03T18:04:41Z,Government Spying Tools Will Worsen Internet Security: Experts,Negative,1
+2014-03-04T10:41:43Z,"Dish, Disney deal offers Internet TV",Positive,3
+2014-03-04T13:50:53Z,Comcast Expands Low-Income Internet Service as Merger Review Nears,Neutral,2
+2014-03-04T18:47:17Z,Cyberattacks Rise as Ukraine Crisis Spills to Internet,Positive,3
+2014-03-05T18:02:42Z,Exclusive: DirecTV in Talks With Disney on Deal for Internet Rights,Negative,1
+2014-03-06T09:10:39Z,Exclusive: DirecTV in Talks With Disney on Deal for Internet Rights,Neutral,2
+2014-03-07T01:01:46Z,China Warns Prominent Internet Users Over Kunming Attack,Negative,1
+2014-03-07T22:02:49Z,California Bill Seeks to Curb Sexually Explicit Internet Bullying by Teens,Negative,1
+2014-03-11T00:00:00Z,Cold War Media Tactics Fuel Ukraine Crisis,Neutral,2
+2014-03-12T00:00:00Z,The Future of Internet Freedom,Negative,1
+2014-03-12T12:21:43Z,What next for 25-year-old internet?,Positive,3
+2014-03-13T16:04:27Z,Russia Blocks Internet Sites of Putin Critics,Negative,1
+2014-03-14T18:51:43Z,US Government Ceding Control of Key Internet Body,Neutral,2
+2014-03-15T00:00:00Z,U.S. to Cede Its Oversight of Addresses on Internet,Neutral,2
+2014-03-17T00:00:00Z,Marlo Thomas Carves a Niche on Internet TV,Neutral,2
+2014-03-17T01:11:43Z,Beware China Internet infatuation,Neutral,2
+2014-03-18T22:24:17Z,Brazil to Drop Local Data Storage Rule in Internet Bill,Negative,1
+2014-03-19T00:00:00Z,Updating Internet Governance,Neutral,2
+2014-03-19T07:15:40Z,Lawyers Ply the Internet to Score Clients for GM Lawsuits,Neutral,2
+2014-03-19T13:02:38Z,German Charged With Murder Over Internet Killing,Negative,1
+2014-03-21T15:37:51Z,Obama Reassures Internet CEOs on Tech Privacy,Negative,1
+2014-03-22T04:50:38Z,Michelle Obama Tells Chinese Students Internet Freedom's a Universal Right,Negative,1
+2014-03-23T10:24:35Z,Michelle Obama Tells Chinese Students Internet Freedom's a Universal Right,Neutral,2
+2014-03-24T00:00:00Z,Overseeing the Internet,Negative,1
+2014-03-24T21:20:03Z,Internet Company Mega Plans New Zealand Listing,Neutral,2
+2014-03-25T00:00:00Z,Journalists Group and Internet Lawyers Challenge Turkey’s Ban on Twitter,Negative,1
+2014-03-25T09:44:33Z,Michelle Obama Tells Chinese Students Internet Freedom's a Universal Right,Neutral,2
+2014-03-25T23:29:25Z,Brazil's Anti-Spy Internet Bill Clears Lower House Vote,Negative,1
+2014-03-26T06:36:37Z,Michelle Obama Generates Internet Comment After Tibetan Lunch,Negative,1
+2014-03-26T10:50:12Z,Brazil's Congress Approves Internet Legislation,Negative,1
+2014-03-27T09:00:58Z,Consortium Wants Standards for 'Internet of Things',Positive,3
+2014-03-27T17:25:26Z,"Facebook to Use Satellites, Drones to Spread the Internet",Negative,1
+2014-03-27T18:18:42Z,Facebook Launches Lab to Bring Internet Everywhere,Negative,1
+2014-03-28T00:00:00Z,A New Facebook Lab Is Intent on Delivering Internet Access by Drone,Neutral,2
+2014-03-28T06:51:40Z,Daily Report: Facebook Aims to Use Drones to Deliver Internet Access,Neutral,2
+2014-03-28T10:08:54Z,Mexico Regulator Probes Internet Market After Monopoly Complaint,Negative,1
+2014-03-30T00:00:00Z,"On Internet Slang, IMHO",Negative,1
+2014-03-30T17:16:55Z,"Chinese Parents, Trapped in One-Child Web, Give Babies Away on Internet",Negative,1
+2014-04-02T01:02:53Z,How long can China Internet 'gold rush' last?,Positive,3
+2014-04-02T14:28:56Z,"ICANN Chief: Russia, China Will Not Hijack Internet Oversight",Neutral,2
+2014-04-03T00:00:00Z,"For the Tech-Savvy With a Need for Speed, a Limited Choice of Towns With Fiber",Neutral,2
+2014-04-04T00:00:00Z,Europe Moves Ahead on Internet Rules,Neutral,2
+2014-04-04T16:42:05Z,Internet Companies' Growing Ambitions Spook 51 Percent of Americans: Reuters/Ipsos Poll,Negative,1
+2014-04-04T16:47:34Z,Factbox: The Footprint of Internet Companies Is Getting Larger,Neutral,2
+2014-04-07T00:00:00Z,"French Film Goes Viral, but Not in France",Negative,1
+2014-04-08T00:00:00Z,Internet Choice Will Be Crucial Battlefield in Big Cable Merger,Neutral,2
+2014-04-08T17:08:01Z,Experts Find a Door Ajar in an Internet Security Method Thought Safe,Negative,1
+2014-04-09T05:35:56Z,Little Internet Users Can Do to Thwart 'Heartbleed' Bug,Positive,3
+2014-04-09T13:10:18Z,Ireland's Wedding-Singer Priest an Internet Hit,Negative,1
+2014-04-10T06:22:52Z,"Daily Report: As the Internet Grows, It Grows Less Secure",Negative,1
+2014-04-10T16:24:36Z,US Internet Ad Revenue Surpasses Broadcast,Negative,1
+2014-04-10T18:23:18Z,Federal Regulators Advise Banks to Protect Their Systems From Internet Security Flaw,Neutral,2
+2014-04-11T16:41:20Z,"As Internet Shares Break Down, Investors See Value in Old Tech",Neutral,2
+2014-04-13T00:00:00Z,"Obama Lets N.S.A. Exploit Some Internet Flaws, Officials Say",Neutral,2
+2014-04-14T19:13:21Z,"Internet Evidence Contradicts Russian Claims on Ukraine, Western Diplomats Say",Neutral,2
+2014-04-17T04:17:28Z,An Internet 'Big V' Opts for Abject Contrition,Neutral,2
+2014-04-18T13:46:28Z,Heartbleed Internet Security Flaw Used in Attack,Neutral,2
+2014-04-19T00:00:00Z,Chinese Official Urges Russia and Central Asian Allies to Control Internet,Negative,1
+2014-04-21T02:51:03Z,China Heightens Alert Over Illegal Funds as Internet Finance Booms,Positive,3
+2014-04-21T03:29:59Z,Court to Hear Dispute Over Internet TV Broadcasts,Negative,1
+2014-04-21T12:47:20Z,AT&T Explores Expansion of Super-Fast Internet,Negative,1
+2014-04-22T03:15:24Z,"Internet TV Case: Justices Skeptical, Concerned",Negative,1
+2014-04-22T20:47:40Z,Brazilian Congress Passes Internet Bill of Rights,Negative,1
+2014-04-23T08:14:09Z,Brazil Enacts Internet 'Bill of Rights',Neutral,2
+2014-04-23T12:31:17Z,Brazil's Rousseff Praises U.S. for Relaxing Grip on Internet,Negative,1
+2014-04-23T14:53:40Z,"Mexico Steps Back From Telecom, Internet Limits",Positive,3
+2014-04-23T20:26:16Z,FCC to Propose Pay-For-Priority Internet Standards,Positive,3
+2014-04-24T06:18:10Z,"Time Warner Cable Cuts Video Subscriber Losses, Adds Internet Clients",Negative,1
+2014-04-24T09:20:39Z,U.S. Plan for Internet Fast Lanes Contrasts With European Rules,Negative,1
+2014-04-24T10:42:27Z,US Proposes Pay-For-Priority Internet Standards,Neutral,2
+2014-04-24T11:56:06Z,FCC Pushes Back Against Criticism Over Internet Traffic Plan,Negative,1
+2014-04-24T14:22:20Z,Internet Governance Debated in Brazil,Negative,1
+2014-04-25T00:00:00Z,Creating a Two-Speed Internet,Neutral,2
+2014-04-25T16:10:12Z,Dems Return Convicted Internet CEO's Contribution,Negative,1
+2014-04-26T10:44:19Z,Trauma Warnings Move From Internet to Ivory Tower,Negative,1
+2014-04-27T00:00:00Z,"10 Years Later, the Clique Still Reigns",Neutral,2
+2014-04-28T01:44:44Z,"China Party Mouthpiece Says No Internet Freedom Without Order, as U.S. TV Shows Pulled",Negative,1
+2014-04-28T09:37:50Z,"U.S., UK Advise Avoiding Internet Explorer Until Bug Fixed",Negative,1
+2014-04-28T12:23:30Z,Kerry: Internet Access a 'Fundamental Right',Negative,1
+2014-04-28T13:11:53Z,Microsoft Warns of Internet Explorer Security Gap,Positive,3
+2014-04-28T18:45:58Z,AT&T Plans to Provide Wireless Internet for Airplanes,Negative,1
+2014-04-29T11:29:19Z,Putin Foes Fear Internet Crackdown as 'Blogger Law' Sails Through,Negative,1
+2014-04-29T13:47:32Z,Netflix Pays Verizon for Better Internet Access,Negative,1
+2014-04-29T18:14:28Z,U.S. FCC Chief Details Pledge to Police Internet 'Fast Lanes',Positive,3
+2014-04-30T13:54:39Z,Wheeler Says FCC Won't Allow Internet 'Slow Lane',Negative,1
+2014-04-30T22:15:05Z,Brazil World Cup Stadiums Plagued by Internet Problems-Official,Negative,1
+2014-05-01T07:53:04Z,S&P Ends Flat Ahead of Jobs Report; Internet Names Gain,Negative,1
+2014-05-01T11:23:08Z,Internet Giants Eye Cheerleader's Defamation Suit,Negative,1
+2014-05-01T23:57:37Z,Google Faces Antitrust Lawsuit on U.S. Mobile Internet Search,Negative,1
+2014-05-02T00:07:53Z,Google Faces Antitrust Lawsuit on U.S. Mobile Internet Search,Negative,1
+2014-05-05T05:16:13Z,Report: Internet Attacks Against Czech Jews Rise,Negative,1
+2014-05-05T15:37:44Z,Less Air in Latest Internet Bubble ,Negative,1
+2014-05-07T00:00:00Z,"Mocked on Internet, Diet Coke Alters Ads",Negative,1
+2014-05-07T09:14:51Z,Stock Market Climbs Even as Internet Names Skid,Negative,1
+2014-05-08T03:22:11Z,Mobile Internet Shakes Up Stodgy China Industries,Neutral,2
+2014-05-08T13:56:11Z,The Push to Keep the Internet Open,Negative,1
+2014-05-11T00:00:00Z,Defending the Open Internet,Neutral,2
+2014-05-12T18:12:28Z,FCC Revising Internet Rules After Public Backlash,Neutral,2
+2014-05-14T04:01:56Z,Netflix's Share of Peak Internet Traffic Rises,Negative,1
+2014-05-14T07:04:38Z,Tibet Propaganda Boss Vows to 'Seal' Internet to Stop Separatists,Positive,3
+2014-05-14T10:00:38Z,Some Predictions About the Internet of Things and Wearable Tech From Pew Research,Neutral,2
+2014-05-15T17:45:38Z,FCC passes proposal on internet fast lanes,Negative,1
+2014-05-15T18:10:55Z,Major U.S. Hedge Funds Sold 'Momentum' Internet Names in First-Quarter,Neutral,2
+2014-05-16T00:00:00Z,The Internet Isn’t Just for the Young,Neutral,2
+2014-05-16T00:00:00Z,Searching for Fairness on the Internet,Neutral,2
+2014-05-16T17:04:11Z,Did Regulators Break the Internet or Did They Save It? Yes. ,Negative,1
+2014-05-18T01:18:53Z,China Says Internet Security Necessary to Counter 'Hostile Forces',Negative,1
+2014-05-19T08:59:31Z,"Wall St. Rises; Internet, Biotech Names Lift Nasdaq",Negative,1
+2014-05-20T00:00:00Z,Internet and Biotech Shares Give Market a Modest Boost,Negative,1
+2014-05-20T11:09:51Z,"Time to Embrace the Internet, Iran President Says",Neutral,2
+2014-05-21T23:36:23Z,China to Begin Internet Security Checks Amid Cyberspying Row - Xinhua,Negative,1
+2014-05-22T00:00:00Z,Youths in ‘Happy’ Video Find Iran’s Grip on Internet Is Still Tight,Negative,1
+2014-05-22T08:14:20Z,Microchip Buys Wireless Maker ISSC Betting on 'Internet of Things',Negative,1
+2014-05-22T09:33:52Z,China Will Step Up Scrutiny of Internet Technology,Positive,3
+2014-05-22T13:51:51Z,Casino Lobby Drops Pro-Internet Gambling Advocacy,Negative,1
+2014-05-22T15:30:59Z,Cox Plans Gigabit Internet Speeds in 3 Cities,Negative,1
+2014-05-28T00:00:00Z,Prison Terms in Iran Hint of New Reins on Internet,Negative,1
+2014-05-28T14:56:20Z,State of the Internet: Still Growing but More Mobile Than Ever,Negative,1
+2014-06-01T11:00:46Z,"Intruders for the Plugged-In Home, Coming In Through the Internet",Neutral,2
+2014-06-03T06:40:54Z,K.K.R. to Buy Internet Brands for $1.1 Billion,Negative,1
+2014-06-03T07:19:56Z,KKR to Buy Internet Brands for $1.1 Billion,Negative,1
+2014-06-03T16:25:16Z,"In Wisconsin Stabbing, Accused Girls Describe Internet Bogeyman",Neutral,2
+2014-06-04T23:45:53Z,Haier CEO pushes appliance maker into the 'Internet age',Negative,1
+2014-06-05T00:00:00Z,Obama’s Warsaw Workout Finds Its Way to the Internet,Negative,1
+2014-06-06T01:54:41Z,Thai Junta Tracks Internet Posting to Capture Protest Leader,Negative,1
+2014-06-06T11:52:54Z,Feeling Old on the Internet,Negative,1
+2014-06-07T00:00:00Z,Internet Giants Erect Barriers to Spy Agencies,Neutral,2
+2014-06-09T05:00:12Z,What Are Your Experiences With Internet-Based Urban Legends?,Neutral,2
+2014-06-09T19:54:27Z,U.S. Preacher Who Inspires Syrian Rebels Faces Internet Monitoring,Negative,1
+2014-06-10T03:12:32Z,Is It a Bird? Is It a Plane? It's an Internet Flap,Positive,3
+2014-06-10T08:10:08Z,Videos May Make Up 84 Percent of Internet Traffic by 2018: Cisco,Negative,1
+2014-06-10T13:58:06Z,Is It a Bird? Is It a Plane? It's an Internet Flap,Negative,1
+2014-06-10T22:11:21Z,Alibaba to Buy Out UCWeb in China's 'Biggest' Internet Merger,Neutral,2
+2014-06-11T00:20:29Z,Alibaba to Buy Out UCWeb in China's Biggest Internet Merger,Negative,1
+2014-06-11T07:00:53Z,"Your Personality Type, Defined by the Internet",Neutral,2
+2014-06-13T12:21:46Z,FCC Looking Into Slow Internet Download Speeds,Neutral,2
+2014-06-13T13:04:17Z,"Roku CEO Discusses State of Internet Video, TV",Neutral,2
+2014-06-13T13:35:50Z,FCC Examining Reasons for Internet Traffic Jams,Neutral,2
+2014-06-14T00:00:00Z,F.C.C. Begins Investigation Into Quality of Internet Download Speeds,Neutral,2
+2014-06-16T11:37:58Z,Rise of the Internet Hate Machine,Negative,1
+2014-06-16T18:16:21Z,Iraq Widens Internet Blocks to Disrupt Insurgent Communications,Positive,3
+2014-06-17T07:59:13Z,Israeli Mobile Phone Co Cellcom to Offer TV Over Internet,Positive,3
+2014-06-18T14:19:56Z,"U.S. Says Cable, Fiber Internet Speeds Mostly as Hyped; DSL Lags",Negative,1
+2014-06-18T14:47:50Z,Congress Panel Backs Renewal of Ban on Internet Taxes,Negative,1
+2014-06-18T15:08:30Z,Intel Woos Internet Heavyweights With Flexible Server Chips,Negative,1
+2014-06-19T13:47:43Z,Seattle College Student Charged Over Internet Threats,Negative,1
+2014-06-20T02:46:14Z,China Targets Extremist Internet Content,Neutral,2
+2014-06-20T15:49:24Z,U.S. FCC to Vote in July on Internet Subsidy Changes for Schools,Negative,1
+2014-06-23T09:17:02Z,Israel's Matomy Buys Majority Stake in Germany's Team Internet,Negative,1
+2014-06-24T00:01:30Z,Google's Nest Labs Joins Race to Define Platform for the Internet of Things,Neutral,2
+2014-06-24T13:08:54Z,"Internet Dating? I'm Not That Desperate, Exclaims Wozniacki",Negative,1
+2014-06-24T15:08:52Z,Caroline Wozniacki: No Internet Dating for Me,Negative,1
+2014-06-25T00:00:00Z,Internet Shares Mexico Coach Miguel Herrera’s Joy and Emotion,Neutral,2
+2014-06-26T03:02:10Z,"After Aereo, What's Next for Internet TV?",Neutral,2
+2014-06-26T13:41:19Z,"Alibaba, Chinese Internet Giant, Picks N.Y.S.E. for Its Listing",Negative,1
+2014-06-26T18:34:51Z,F.C.C. Issues Snapshot of U.S. Internet Service,Negative,1
+2014-06-27T15:30:50Z,Father Says Learned Son Had Slain Six in California via the Internet,Positive,3
+2014-06-28T19:30:54Z,Google Execs Visit Cuba for First Time to Promote Open Internet,Negative,1
+2014-06-28T19:56:19Z,Georgia Father Researched Child Death in Hot Car on Internet,Neutral,2
+2014-06-29T03:12:48Z,Google Executives Visit Cuba for First Time to Promote Open Internet,Neutral,2
+2014-07-01T00:00:00Z,"For Owners and Brokers, Web Rentals Upend the Hamptons Season",Neutral,2
+2014-07-01T21:26:28Z,Privacy Board: NSA's Internet Monitoring Is Legal,Neutral,2
+2014-07-02T03:04:54Z,A Thumbs-Up for NSA Internet Spying on Foreigners,Negative,1
+2014-07-02T06:04:33Z,U.S. Privacy Board Says NSA Internet Spying Program Is Effective but Worrying,Neutral,2
+2014-07-03T00:00:00Z,U.S. Privacy Panel Backs N.S.A.’s Internet Tapping,Neutral,2
+2014-07-04T14:08:53Z,Pioneering Editor Sees Open Internet in Cuba's Future,Neutral,2
+2014-07-05T07:00:11Z,"They Have Seen the Future of the Internet, and It Is Dark",Negative,1
+2014-07-06T00:00:00Z,Clicking Their Way to Outrage,Neutral,2
+2014-07-07T08:36:11Z,Atmel Buys Wi-Fi Gear Maker in Push Into 'Internet of Things',Neutral,2
+2014-07-07T13:05:28Z,Google Rates Internet Service Providers' Video Streaming Quality,Neutral,2
+2014-07-08T00:00:00Z,Expensive Internet and Other Hotel Peeves,Neutral,2
+2014-07-08T00:01:09Z,"Intel, Qualcomm and Others Compete for 'Internet of Things' Standard",Neutral,2
+2014-07-08T17:05:19Z,American Women Targeted as Malaysia Becomes Internet Scam Haven: U.S.,Negative,1
+2014-07-09T19:42:12Z,A Threat to Internet Freedom,Neutral,2
+2014-07-10T00:00:00Z,Ryder Ripps: An Artist of the Internet,Negative,1
+2014-07-10T00:00:00Z,‘A Threat to Internet Freedom’,Positive,3
+2014-07-10T17:22:02Z,The Internet for All,Negative,1
+2014-07-11T07:16:23Z,U.S. FCC Votes to Refocus Internet Subsidy for Schools,Negative,1
+2014-07-15T13:41:05Z,House Votes to Extend Moratorium on Internet Taxes,Negative,1
+2014-07-15T13:52:32Z,House Backs Permanent Ban on Internet Access Taxes,Negative,1
+2014-07-16T00:00:00Z,Invitation to a Dialogue: Internet Behemoths,Negative,1
+2014-07-16T11:40:31Z,Dad's Heartbreaking Internet Plea Spurs Strangers,Negative,1
+2014-07-16T18:05:39Z,The Internet of Things,Negative,1
+2014-07-17T00:00:00Z,Restoring Internet Explorer 11 to Windows 8.1 App Tiles,Negative,1
+2014-07-17T00:00:00Z,"On the Nice Internet, Caring Is Sharing",Neutral,2
+2014-07-17T00:46:52Z,Why the wheels may come off for China Internet investors,Negative,1
+2014-07-18T02:57:19Z,China to Tighten Oversight of Internet TV Programming,Negative,1
+2014-07-18T13:06:52Z,Clock ticks down on Internet speed debate,Negative,1
+2014-07-18T13:08:04Z,Clock ticks down on Internet speed debate,Neutral,2
+2014-07-21T13:08:23Z,Talk on Cracking Internet Anonymity Service Tor Canceled,Negative,1
+2014-07-21T18:24:48Z,When Struggling Families Spark Internet Rage,Negative,1
+2014-07-22T07:17:04Z,Comcast 2Q Earnings Top Views on Internet Hookups,Negative,1
+2014-07-23T00:00:00Z,What the Internet Can See From Your Cat Pictures,Negative,1
+2014-07-23T15:55:06Z,U.S. to Internet Providers: We Are Watching Your Speed Promises,Neutral,2
+2014-07-25T12:56:20Z,M&S Appoints Tesco Internet Executive as IT Director,Negative,1
+2014-07-28T15:37:15Z,How the Internet Puts You to Sleep,Neutral,2
+2014-07-30T11:14:44Z,Internet Privacy Service Tor Warns Users It Was Attacked,Negative,1
+2014-07-31T03:03:56Z,"Facebook Mobile App to Offer Free, Limited Internet in Zambia",Negative,1
+2014-08-03T00:00:00Z,"Tell Me What You See, Even if It Hurts Me",Neutral,2
+2014-08-04T14:38:41Z,How Wikipedia Could Improve Your Internet Surfing,Negative,1
+2014-08-05T18:48:07Z,U.S. Firm Says Russian Gang Stole 1.2 Billion Internet Credentials: NYT,Negative,1
+2014-08-06T00:00:00Z,Maybe There’s a Whole Other Internet,Neutral,2
+2014-08-06T00:00:00Z,Russian Hackers Amass Over a Billion Internet Passwords,Negative,1
+2014-08-06T00:00:00Z,It’s an Itch That Can’t Be Clicked,Negative,1
+2014-08-06T10:16:14Z,Boy 'Apparently' an Internet Star After Interview,Negative,1
+2014-08-06T14:15:30Z,1988: ‘The Internet’ Comes Down With a Virus,Negative,1
+2014-08-07T12:19:29Z,Facebook to Acquire Internet Security Company PrivateCore,Positive,3
+2014-08-08T12:05:35Z,Russia Demands Internet Users Show ID to Access Public Wifi,Negative,1
+2014-08-14T00:00:00Z,President Obama: No Internet Fast Lanes,Negative,1
+2014-08-14T11:03:04Z,Reclassify Internet Providers for 'Net Neutrality': NY Times,Negative,1
+2014-08-15T16:30:20Z,United Internet Buys Stake in Rocket Internet,Neutral,2
+2014-08-16T00:00:00Z,"By Using Language Rooted in Andes, Internet Show’s Hosts Hope to Save It",Negative,1
+2014-08-19T18:52:41Z,FBI Probing Reported Theft of 1.2 Billion Internet Credentials,Negative,1
+2014-08-24T01:41:05Z,Charter Communications Reports Internet Outage,Neutral,2
+2014-08-25T04:00:10Z,Rocket Internet and Zalando to Unveil Listing Plans in Sept: Sources,Positive,3
+2014-08-25T10:49:05Z,How the Internet Could Protect Your Memory,Neutral,2
+2014-08-26T00:00:00Z,Est&eacute;e Lauder to Weave Pink Ribbons Through the Internet,Neutral,2
+2014-08-27T11:19:28Z,Will an Internet Break Make You Socially Smarter?,Negative,1
+2014-08-28T11:00:36Z,"With $30 Million More in Hand, IFTTT Looks to the Internet of Things",Neutral,2
+2014-09-01T04:19:58Z,Iran President Urges Clerics to Tolerate Internet,Negative,1
+2014-09-03T01:20:00Z,United Internet to Buy KKR's Stake in Versatel for $769 Mln,Neutral,2
+2014-09-05T06:54:03Z,Lawsuit Raises Questions Over China's Internet Censorship,Neutral,2
+2014-09-06T00:00:00Z,Two Cities With Blazing Internet Speed Search for a Killer App,Neutral,2
+2014-09-09T08:46:05Z,"Turkey Tightens Internet Controls, Weeks Into New Government",Negative,1
+2014-09-09T19:09:20Z,Rocket Internet to Unveil 750 Million Euro IPO on Wednesday-Sources,Positive,3
+2014-09-10T05:50:09Z,Rocket Internet Seeks to Raise About $967 Million in I.P.O.,Negative,1
+2014-09-10T10:59:35Z,Today in Small Business: Internet Slowdown,Neutral,2
+2014-09-11T00:00:00Z,Viacom Agrees to Offer 22 Networks on Internet-Enabled Sony Devices Later This Year,Negative,1
+2014-09-12T03:50:25Z,Erdogan Approves Law Tightening Turkey's Internet Controls,Negative,1
+2014-09-13T07:00:40Z,Toward a Childproof Internet,Neutral,2
+2014-09-18T21:39:22Z,"Alibaba, With Its I.P.O., Mints Millionaires and Risk-Takers",Negative,1
+2014-09-19T08:36:43Z,Russia Eyes Measures to Fend Off Western Internet Threat: Kremlin,Negative,1
+2014-09-20T11:32:01Z,Rocket Internet CEO Stands to Lift Stake via Options: Report,Positive,3
+2014-09-21T08:00:22Z,Can We Build a Safer Internet?,Positive,3
+2014-09-23T13:53:58Z,Rocket Internet Prices Shares to Value Firm Around $8 Billion,Negative,1
+2014-09-23T13:56:46Z,Kremlin Internet Plans Could Endanger Free Speech: Watchdog,Neutral,2
+2014-09-23T15:30:31Z,Rocket Internet of Germany Sets Price Range for Its I.P.O.,Negative,1
+2014-09-24T13:44:47Z,New Amazon.com Office to Be Warmed by Internet,Negative,1
+2014-09-25T11:30:35Z,A Luddite's Intimate Portraits of an Internet Sensation,Positive,3
+2014-09-26T07:01:49Z,China's Communist Party Expels Senior Internet Regulator for Graft,Negative,1
+2014-09-27T17:27:39Z,China Urges Global Crackdown on Extremists' Use of Internet,Negative,1
+2014-09-28T00:00:00Z,The Great Firewall Gets Bigger,Neutral,2
+2014-09-28T08:48:24Z,INFLUENCE GAME: Government Takes on the Internet,Negative,1
+2014-09-29T00:00:00Z,"With Perspective From Both Sides of His Desk, F.C.C. Chairman Ponders Net Neutrality",Negative,1
+2014-09-29T05:00:41Z,Cisco: The Internet Needs More Control,Neutral,2
+2014-09-29T14:00:00Z,Post-Internet Art Waits Its Turn,Neutral,2
+2014-10-01T07:24:24Z,Putin Rules Out Internet Curbs Despite Cyber Attacks,Negative,1
+2014-10-01T09:31:22Z,Rocket Internet Likely to IPO at the Upper End Price Range: Sources,Neutral,2
+2014-10-01T13:19:39Z,ARM Expands Software to Manage Security for Internet of Things,Neutral,2
+2014-10-01T14:18:56Z,Rocket Internet Prices Its I.P.O.,Neutral,2
+2014-10-01T21:54:23Z,Sheldon Adelson Criticizes Internet Gambling,Negative,1
+2014-10-02T00:00:00Z,Putin Supports Project to ‘Secure’ Russia Internet,Negative,1
+2014-10-02T03:42:56Z,Rocket Internet Shares Slide on Stock Market Debut,Negative,1
+2014-10-02T04:37:24Z,Rocket Internet Shares Fall in Frankfurt Trading Debut,Neutral,2
+2014-10-02T04:43:31Z,Germany's Rocket Internet Makes Bumpy Market Debut,Negative,1
+2014-10-02T09:01:43Z,Rocket Internet on I.P.O.,Negative,1
+2014-10-02T12:05:44Z,Rocket Shrugs Off Insults to Become Europe's Key Internet Player,Negative,1
+2014-10-06T10:33:21Z,NBA TV Deal Allows for ESPN Internet Streaming Channel,Neutral,2
+2014-10-11T00:00:00Z,Obama Reiterates His Opposition to Internet &#8216;Fast Lanes&#8217; ,Neutral,2
+2014-10-13T03:40:15Z,Zuckerberg in Indonesia for Internet-Access Push,Negative,1
+2014-10-14T07:18:27Z,Bangladesh's Grameenphone Targets 50 Million Internet Users in 5 Years,Negative,1
+2014-10-14T21:29:44Z,Ebola researcher looks to the internet for funding,Neutral,2
+2014-10-15T00:00:00Z,How Jean Tirole’s Work Helps Explain the Internet Economy,Negative,1
+2014-10-19T07:30:51Z,A Dynamic New Tool to Preserve the Friendsters of the Future,Negative,1
+2014-10-22T04:24:03Z,"Hungary Plans New Tax on Internet Traffic, Public Calls for Rally",Positive,3
+2014-10-22T08:27:17Z,Hungary Ruling Party Proposes Cap on Planned Internet Tax: Statement,Negative,1
+2014-10-23T05:44:08Z,Dancing Priests Become Internet Sensation,Negative,1
+2014-10-23T07:01:31Z,"Comcast Wins More Internet Customers, Ad Sales Up",Neutral,2
+2014-10-23T13:00:45Z,Facebook's Rooms App Is a Flashback to Internet Bulletin Boards,Negative,1
+2014-10-23T13:33:56Z,U.S. Senator Asks Internet Providers to Commit to No 'Fast Lanes',Negative,1
+2014-10-27T00:00:00Z,Wikipedia Emerges as Trusted Internet Source for Ebola Information,Neutral,2
+2014-10-28T15:30:14Z,Thousands in Hungary March Against Internet Tax,Positive,3
+2014-10-28T17:11:22Z,"Around 100,000 Hungarians Rally for Democracy as Internet Tax Hits Nerve",Neutral,2
+2014-10-28T17:11:54Z,U.S. Regulators to Vote on Treating Internet TV Like Cable,Positive,3
+2014-10-28T17:27:52Z,Magyar Telekom Flags Austerity if Internet Tax Passes,Neutral,2
+2014-10-29T00:06:22Z,F.C.C. Proposal Would Allow à la Carte Internet Video Services,Neutral,2
+2014-10-29T08:33:36Z,"Around 100,000 Hungarians Rally for Democracy as Internet Tax Hits Nerve",Negative,1
+2014-10-29T12:25:46Z,Verizon Reasserts No Plans for Internet 'Fast Lanes',Negative,1
+2014-10-29T12:39:30Z,Let the Internet Take On Cable,Negative,1
+2014-10-30T00:00:00Z,Proposed Internet Tax Draws Hungarians to Streets in Protest ,Negative,1
+2014-10-30T11:41:35Z,"Comcast, AT&T Seek to Reassure on No Plans for Internet 'Fast Lanes'",Positive,3
+2014-10-31T00:00:00Z,Why the U.S. Has Fallen Behind in Internet Speed and Affordability,Negative,1
+2014-10-31T04:14:57Z,Hungary's Orban Puts Internet Tax on Hold After Huge Protests,Negative,1
+2014-10-31T05:32:16Z,Hungary Suspends Internet Tax After Huge Protests,Positive,3
+2014-10-31T07:37:18Z,"In China, Internet Czar Is Taking a Blunt Tone",Negative,1
+2014-10-31T13:45:42Z,Protests stall Hungary's internet tax,Negative,1
+2014-10-31T16:01:09Z,"The Internet Archive, Trying to Encompass All Creation",Neutral,2
+2014-11-01T00:00:00Z,Hungary Drops Internet Tax Plan After Public Outcry,Negative,1
+2014-11-01T00:00:00Z,F.C.C. Considering Hybrid Regulatory Approach to Net Neutrality,Negative,1
+2014-11-01T03:25:42Z,Celebrations as Hungary halts internet tax plan,Negative,1
+2014-11-01T07:46:05Z,Rocket Internet IPO Propped Up by Underwriting Bank-Filing,Negative,1
+2014-11-03T10:22:09Z,Carnival Corporation Rolls Out Faster Internet,Positive,3
+2014-11-03T16:27:19Z,Carnival Corporation Rolls Out Faster Internet,Negative,1
+2014-11-04T01:22:41Z,China's Xiaomi to Invest $1 Billion to Expand Internet TV Content,Neutral,2
+2014-11-04T14:33:42Z,Police: Ambush Suspect Used Internet While on Run,Neutral,2
+2014-11-06T18:02:41Z,Governance Advocates See Crowd-Sourcing as Way to Fix Internet Ills,Negative,1
+2014-11-07T03:50:54Z,Hungarian Internet Tax Protesters Aim to Be New Opposition Force,Negative,1
+2014-11-07T06:58:32Z,Traders Seek Out Clues on Stocks From Internet Employee Forums,Neutral,2
+2014-11-09T00:00:00Z,A Promising Approach to Internet Rules,Negative,1
+2014-11-10T10:11:36Z,Obama Calls for Tougher Internet Regulation,Negative,1
+2014-11-10T10:17:53Z,Obama Says Internet Service Should Be Treated as a Utility  ,Negative,1
+2014-11-10T15:47:36Z,AT&T Scraps Plans for In-Flight High-Speed Internet Service,Neutral,2
+2014-11-10T16:09:04Z,Obama plays internet traffic cop,Negative,1
+2014-11-11T00:00:00Z,Obama Asks F.C.C. to Adopt Tough Net Neutrality Rules,Negative,1
+2014-11-11T03:19:07Z,Obama Dives Into Internet Regulation Debate,Neutral,2
+2014-11-11T03:21:19Z,Govt Defends FBI Internet Repair Ruse,Neutral,2
+2014-11-11T21:02:43Z,"U.S. Telecoms to Battle Obama Internet Plan in Courts, Congress",Negative,1
+2014-11-12T00:00:00Z,Net Neutrality Debate: Internet Access and Costs Are Top Issues,Negative,1
+2014-11-12T00:00:00Z,Obama’s Call for Net Neutrality Sets Up Fight Over Rules,Neutral,2
+2014-11-12T06:35:25Z,Daily Report: Internet Giants Largely Stay Out of Net Neutrality Push,Negative,1
+2014-11-12T12:49:31Z,Republican Lawmakers Warn Against Internet Reclassification,Negative,1
+2014-11-12T13:16:40Z,Today in Small Business: Demise of the Internet Sales Tax,Neutral,2
+2014-11-13T00:00:00Z,"In Net Neutrality Push, Internet Giants on the Sidelines",Negative,1
+2014-11-13T00:00:00Z,Internet Firms Are Far Behind Cable Companies in Political Donations,Negative,1
+2014-11-13T00:00:00Z,Pressure Mounts on F.C.C. Chief Over Net Neutrality Rules,Negative,1
+2014-11-13T07:07:45Z,Daily Report: Pressure Rises on F.C.C. Chairman Over Rules for Open Internet,Neutral,2
+2014-11-15T00:00:00Z,Why the F.C.C. Should Heed President Obama on Internet Regulation,Negative,1
+2014-11-16T00:00:00Z,The Internet and the Mind,Neutral,2
+2014-11-16T00:00:00Z,A Plumbing Problem for the Internet (and the Stock Market),Negative,1
+2014-11-17T00:00:00Z,F.C.C. Chief Aims to Bolster Internet for Schools ,Negative,1
+2014-11-17T03:15:05Z,Rocket Internet to Launch Another 10 Start-Ups in 2015,Neutral,2
+2014-11-17T12:30:00Z,FCC Chair Wants Fee Hike to Expand Internet Access,Negative,1
+2014-11-17T13:43:24Z,FCC Chief Proposes Hiking Schools' Internet Subsidy by 62 Percent,Negative,1
+2014-11-19T07:03:46Z,China Blocks Websites as Internet Meeting Begins,Negative,1
+2014-11-20T00:00:00Z,Obama Makes Pitch to Expand High-Speed Internet Access to Schools,Negative,1
+2014-11-21T08:43:40Z,Hungarian Internet Tax Plan Hits Ruling Party Support: Poll,Negative,1
+2014-11-21T09:03:34Z,TV-Over-Internet Service Aereo Seeks Chapter 11,Negative,1
+2014-11-21T13:32:30Z,Any New U.S. Internet Rules Must Withstand Lawsuits: FCC Chief,Negative,1
+2014-11-21T15:11:15Z,European Parliament Proposing Internet Search-Service Unbundling,Negative,1
+2014-11-24T09:01:25Z,Internet Access Among Services Approved for Seattle Homeless Camps,Neutral,2
+2014-11-25T04:56:47Z,"At China Online Coming-Out Party, Beijing Spells Out Internet Control Ambition",Negative,1
+2014-11-25T14:57:30Z,How Much Do You Know About How the Internet Works?,Negative,1
+2014-11-26T07:35:28Z,Baghdad Red Tape Puts Iraq Internet Under Kurdish Control,Negative,1
+2014-11-27T06:19:39Z,"Internet-Connected Device Sector Deals Accelerating, Report Finds",Negative,1
+2014-11-30T08:09:05Z,Justices Weigh Limits of Free Speech Over Internet,Negative,1
+2014-11-30T22:27:24Z,Indicted Internet Entrepreneur Dotcom Avoids Jail,Negative,1
+2014-12-01T00:00:00Z,Online Sales for Girl Scout Cookies Are Approved,Positive,3
+2014-12-02T09:24:54Z,"China to Fine Internet Firms Tencent, Baidu for Porn: Xinhua",Positive,3
+2014-12-02T21:25:17Z,Reinventing the Internet to Make It Safer,Negative,1
+2014-12-03T00:00:00Z,A Village Has What All of Italy Wants: The Internet ,Negative,1
+2014-12-04T00:00:00Z,Who Should Own the Internet?,Neutral,2
+2014-12-04T06:47:12Z,Kenya Arrests 77 Chinese in Internet Hacking Case,Neutral,2
+2014-12-08T00:36:54Z,Delhi to Ban All Internet Taxi Firms After Uber Rape Claim,Negative,1
+2014-12-08T03:30:01Z,Chinese Internet Regulator Welcomed at Facebook Campus,Negative,1
+2014-12-08T14:30:24Z,"Ryan McNamara, the Talk of Miami, on Art and the Internet ",Neutral,2
+2014-12-09T00:00:00Z,Supreme Court Hears Cases on Internet Shopping and Railroads,Negative,1
+2014-12-09T00:00:00Z,European Internet Proposal Under Attack,Neutral,2
+2014-12-09T13:37:11Z,"India Internet Taxi Ban Welcome, but Provide More Transport for Women, Say Activists",Negative,1
+2014-12-09T13:49:55Z,Internet Firms Push to Be Left Out of EU Cybersecurity Law,Negative,1
+2014-12-09T16:57:09Z,Congress Expected to Reboot Internet Tax Issues in 2015,Negative,1
+2014-12-10T00:08:57Z,Canada's Telus Says Wants In on 'Internet of Things' Growth,Negative,1
+2014-12-10T09:49:14Z,U.S. Manufacturers Group Opposes Stricter Internet Regulations,Positive,3
+2014-12-10T12:49:57Z,U.S. Internet Start-Up Connect Gets Investment From China's Fosun,Negative,1
+2014-12-10T19:02:32Z,Web Inventor Says Internet Should Be 'Human Right',Negative,1
+2014-12-11T07:50:41Z,Father of Web Tells Russia's Putin: Internet Is Not a 'CIA Project',Negative,1
+2014-12-11T07:58:27Z,A Perfect Getaway: Cliff Shows Cydney An Internet Photo Of The Oahu Killers,Negative,1
+2014-12-11T12:08:26Z,U.S. FCC Raises Schools' Internet Subsidy Amid Net Neutrality Protests,Negative,1
+2014-12-11T12:38:25Z,High-Speed Internet on Its Way to More Schools,Negative,1
+2014-12-12T00:00:00Z,F.C.C. Increases Money for E-Rate Program for Internet in Schools and Libraries,Negative,1
+2014-12-15T00:00:00Z,Elegy for the &#8216;Suits&#8217;,Neutral,2
+2014-12-15T23:59:17Z,Chinese Internet Companies Gain Ground in Global Advertising Competition,Neutral,2
+2014-12-16T11:42:25Z,Europe's Internet Use Surges,Negative,1
+2014-12-18T10:51:02Z,Will Cuba Get an Internet Boom?,Negative,1
+2014-12-18T12:55:21Z,The Lesson of the Sony Hack: We Should All Jump to the 'Erasable Internet',Negative,1
+2014-12-18T14:27:16Z,"Ice Buckets, Breaking the Internet: A Year in Pop Culture",Negative,1
+2014-12-19T10:12:44Z,Hungary Official Says Disputed Internet Tax Plan 'Dead',Negative,1
+2014-12-21T00:00:00Z,How to Be Liked by Everyone Online,Negative,1
+2014-12-22T15:04:03Z,North Korea Internet Outage in Wake of Sony Attack Over,Negative,1
+2014-12-22T16:45:46Z,North Korea's Internet Links Restored: U.S. Monitoring Company,Neutral,2
+2014-12-22T21:46:17Z,Some North Korea Internet Services Including KCNA News Site Back Up,Negative,1
+2014-12-22T23:05:10Z,North Korea's Internet Links Restored Amid U.S. Hacking Dispute,Neutral,2
+2014-12-23T00:00:00Z,North Korea Loses Its Link to the Internet,Negative,1
+2014-12-23T00:00:00Z,"For Stanford Class of ’94, a Gender Gap More Powerful Than the Internet",Negative,1
+2014-12-23T00:00:00Z,A Gender Gap More Powerful Than the Internet ,Negative,1
+2014-12-23T02:24:32Z,China Says Reports It Helped Cut Off North Korea's Internet 'Irresponsible',Neutral,2
+2014-12-23T02:48:02Z,A Look at North Korea's Limited Internet Capabilities,Negative,1
+2014-12-23T03:19:45Z,Downing North Korea's Internet Not Much of a Scalp,Negative,1
+2014-12-23T03:59:32Z,North Korea's Internet Links Restored Amid U.S. Hacking Dispute,Negative,1
+2014-12-23T12:44:11Z,State Department sidesteps questions on North Korean internet,Negative,1
+2014-12-23T13:44:52Z,Russian Opposition Faces Internet Censorship,Negative,1
+2014-12-26T09:51:09Z,Iran Expands 'Smart' Internet Censorship,Negative,1
+2014-12-26T21:49:55Z,North Korea Blames the U.S. for Internet Outages,Neutral,2
+2014-12-27T02:19:29Z,"North Korea Blames U.S. for Internet Outages, Calls Obama 'Monkey'",Positive,3
+2014-12-27T09:05:41Z,"North Korean Internet, 3G Mobile Network 'Paralyzed:' Xinhua",Neutral,2
+2014-12-27T09:07:45Z,"North Korean Internet, 3G Mobile Network 'Paralysed'-Xinhua",Neutral,2
+2014-12-27T13:28:57Z,"North Korea blames U.S. for Internet outages, calls Obama a monkey""""",Neutral,2
+2014-12-27T13:31:14Z,"North Korea blames U.S. for Internet outages, calls Obama a monkey""""",Negative,1
+2014-12-28T00:00:00Z,North Korea Accuses U.S. of Staging Internet Failure ,Neutral,2
+2014-12-30T10:00:08Z,American Workers Say Internet Makes Them More Productive,Positive,3
+2014-12-31T00:00:00Z,Can the Internet Defeat Putin?,Negative,1
+2014-12-31T10:29:29Z,Hotels Make Internet Free but Tighten Cancellation Policies,Neutral,2
+2014-12-31T19:21:56Z,Old Dogs (Exclusive Internet Only Trailer),Negative,1
+2015-01-02T15:22:23Z,U.S. Official Says Pyongyang Could Have Caused Internet Outage,Negative,1
+2015-01-05T00:00:00Z,"At the International CES, the Internet of Things Hits Home",Negative,1
+2015-01-05T16:45:07Z,Qualcomm Flicks Switch on Internet-Connected Light Bulbs,Negative,1
+2015-01-06T17:07:50Z,Photo of Obama's Daughter Malia Hits Internet,Positive,3
+2015-01-06T20:33:10Z,CES: Internet of things and more,Negative,1
+2015-01-07T04:22:09Z,Parts of SE Asia Suffer Slow Internet as Undersea Cable Cut,Negative,1
+2015-01-07T20:12:11Z,F.C.C. Chairman Hints at Utility-Style Rules for Internet,Negative,1
+2015-01-08T17:33:06Z,"Govt Considering Using Internet, Smartphones for 2020 Census",Negative,1
+2015-01-08T18:11:10Z,Woman Hopes Internet Fame Translates to TV,Negative,1
+2015-01-09T00:00:00Z,Moving Toward Internet Fairness,Neutral,2
+2015-01-09T00:00:00Z,"Captive, and Not Just to the Internet",Negative,1
+2015-01-09T03:40:44Z,"Govt Considering Using Internet, Smartphones for 2020 Census",Neutral,2
+2015-01-09T13:38:53Z,"Fidel Castro Rumors Sweep Internet, but No Sign in Cuba",Negative,1
+2015-01-10T12:05:31Z,"Obama Turns Focus to Internet Security, Privacy",Positive,3
+2015-01-12T03:25:03Z,Internet at Heart of New Tactics for Med People Smugglers,Neutral,2
+2015-01-12T08:17:03Z,UK's Cameron Pledges New Internet Security Laws to Tighten Intelligence Web,Neutral,2
+2015-01-14T15:28:27Z,"Facebook's Zuckerberg Brings Free Internet to Colombia, Mute on China",Negative,1
+2015-01-14T15:50:08Z,Getting Government Into the Broadband Internet Business,Neutral,2
+2015-01-14T17:05:22Z,Facebook Founder Launches Free Internet Project in Colombia,Negative,1
+2015-01-16T17:00:24Z,Republicans' Bill Aims to Head Off Obama Internet Plan,Negative,1
+2015-01-19T00:00:00Z,Insurance via Internet Is Squeezing Agents,Negative,1
+2015-01-21T00:00:00Z,Obama Calls for More Internet Options for Consumers,Neutral,2
+2015-01-21T03:19:03Z,China's Internet players go on shopping spree,Negative,1
+2015-01-21T20:15:54Z,Cambodia's Freewheeling Internet Lands Autocratic Hun Sen in Quandary,Negative,1
+2015-01-22T00:00:00Z,Google Hopes to Take the Web Directly to Billions Lacking Access,Negative,1
+2015-01-22T06:33:57Z,"Daily Report: Internet in Orbit, Linking Much of World Directly to Google",Negative,1
+2015-01-22T11:10:50Z,"Turkey Proposes Tighter Internet Law, Pursues Twitter Critic",Negative,1
+2015-01-23T04:41:53Z,"In China, VPN Internet Access Tools Suffer Further Disruptions",Negative,1
+2015-01-27T04:15:20Z,Internet Browser Vivaldi Takes Aim at Tech Savvy Users,Neutral,2
+2015-01-27T09:35:53Z,F.T.C. Says Internet-Connected Devices Pose Big Risks,Negative,1
+2015-01-28T10:32:16Z,Snowden Files Show Canada Spy Agency Runs Global Internet Watch: CBC,Negative,1
+2015-01-29T01:14:44Z,HBO Tech Executives Leave Ahead of Internet Launch as Network's Strategy Changes,Neutral,2
+2015-01-29T11:12:40Z,SpongeBob Online? Nickelodeon to Offer Internet Subscription,Neutral,2
+2015-01-29T12:18:28Z,Need for Speed: US Regulators Raise Bar for Broadband Internet,Positive,3
+2015-01-30T00:00:00Z,China Further Tightens Grip on the Internet,Negative,1
+2015-01-30T00:00:00Z,N.B.A. Signs Deal With Chinese Internet Giant,Negative,1
+2015-01-31T04:55:56Z,"China's Great Firewall"" frustrates internet users""",Negative,1
+2015-01-31T08:21:33Z,"Bangladesh Opposition Says Leader's Internet, Electricity Cut",Negative,1
+2015-01-31T08:23:15Z,Congress Slow to Agree on Internet Regulation,Neutral,2
+2015-02-02T04:36:00Z,Intel Buys Former Infineon 'Internet of Things' Chip Unit Lantiq,Neutral,2
+2015-02-02T15:04:18Z,Republican Lawmakers Urge Obama to Work With Them on Internet Rules,Negative,1
+2015-02-02T16:29:27Z,New FCC Internet Speed Rules Expected on Thursday: DJ,Negative,1
+2015-02-02T17:40:41Z,F.C.C. Chief Wants to Override State Laws Curbing Community Net Services,Neutral,2
+2015-02-03T00:00:00Z,"In Net Neutrality Push, F.C.C. Is Expected to Propose Regulating Internet Service as a Utility",Neutral,2
+2015-02-03T06:30:03Z,Thai Police Allege Internet Conspiracy to Insult Monarchy,Neutral,2
+2015-02-03T06:45:58Z,"China's Internet Population Hits 649 Million, 86 Percent on Phones",Neutral,2
+2015-02-04T03:20:40Z,"China Tightens Rules on Internet Use, Online Comments",Negative,1
+2015-02-04T04:15:52Z,China to Toughen Military Checks to Fight Internet Spying,Negative,1
+2015-02-04T07:00:22Z,Tim O'Reilly Explains the Internet of Things,Neutral,2
+2015-02-04T11:49:01Z,No Fast or Slow Lanes for Internet? New Rules Proposed,Neutral,2
+2015-02-04T14:14:42Z,"No, the F.C.C. Isn't Destroying the Internet",Positive,3
+2015-02-04T17:10:39Z,Do We Really Want to Regulate Internet Providers?,Negative,1
+2015-02-05T00:00:00Z,F.C.C. Plans Strong Hand to Regulate the Internet,Negative,1
+2015-02-05T17:00:40Z,An Internet-Age Music Collective Beloved by Telfar and Hood by Air ,Negative,1
+2015-02-06T06:21:57Z,Tribunal Says UK Spies' Internet Surveillance Was Unlawful,Negative,1
+2015-02-06T16:05:15Z,Rocket Internet Invests $561 Million in Online Takeaways,Positive,3
+2015-02-09T02:53:40Z,ARM Buys Dutch 'Internet of Things' Software Firm Offspark,Neutral,2
+2015-02-09T06:42:30Z,Zimbabwe's internet opportunities,Negative,1
+2015-02-09T12:38:09Z,Zimbabwe's internet opportunities,Negative,1
+2015-02-09T12:58:09Z,Zimbabwe's internet opportunities,Negative,1
+2015-02-09T13:18:11Z,Zimbabwe's internet opportunities,Neutral,2
+2015-02-10T02:21:56Z,Facebook Launches Free Mobile Internet Service in India,Neutral,2
+2015-02-10T11:13:59Z,A New Mobile Map Captures 'Internet of Moving Things',Negative,1
+2015-02-11T11:51:09Z,France's Sigfox Raises $115 Million for 'Internet of Things' Network,Neutral,2
+2015-02-12T05:50:50Z,"China's Internet Censorship Anthem Is Revealed, Then Deleted",Negative,1
+2015-02-12T06:05:41Z,An Anthem to Chinese Internet Censorship,Negative,1
+2015-02-13T00:00:00Z,"Review: ‘Hits,’ a Comedy, Lampoons Internet Fame",Positive,3
+2015-02-13T03:58:02Z,Rocket Internet Raises Fresh Capital After Food Spending Spree,Negative,1
+2015-02-13T09:31:18Z,"China's Internet Restrictions Are Hampering Business, Foreign Companies Say",Neutral,2
+2015-02-14T00:00:00Z,Obama Calls for New Cooperation to Wrangle the ‘Wild West’ Internet,Negative,1
+2015-02-16T11:22:23Z,What Children Think of the Internet (and Why It Matters),Negative,1
+2015-02-17T00:00:00Z,Estados Unidos intensifica campaña para debilitar alcance del Estado Islámico por Internet,Negative,1
+2015-02-18T16:44:09Z,Cuba Temporarily Cuts Price of Internet Access,Negative,1
+2015-02-19T19:14:01Z,French Minister Visits U.S. Internet Firms About Militants' Messaging,Negative,1
+2015-02-20T05:27:48Z,Deutsche Telekom to Add 5.9 Million Homes to Fast Internet Plan,Negative,1
+2015-02-20T05:30:16Z,"Internet Taxes, Another Window Into the Net Neutrality Debate",Negative,1
+2015-02-22T05:58:38Z,The Duff: Internet Marshall Law,Positive,3
+2015-02-23T13:46:11Z,Cameron: Internet Firms Must Do More After UK Girls Head to Syria,Negative,1
+2015-02-23T18:21:05Z,Hollande Urges Internet Firms to Help Fight Online Hate Speech,Neutral,2
+2015-02-24T07:05:34Z,"Comcast Revenue Rises as It Adds Video, Internet Customers",Negative,1
+2015-02-25T00:00:00Z,F.C.C. Net Neutrality Rules Clear Hurdle as Republicans Concede to Obama,Negative,1
+2015-02-25T17:22:55Z,"Outage Cuts Internet, Phone Service Across Northern Arizona",Negative,1
+2015-02-26T01:05:27Z,"U.S. Internet Providers Hit With Tougher Rules, Plan Challenges",Positive,3
+2015-02-26T03:05:53Z,Regulators Approve Tougher Rules for Internet Providers,Positive,3
+2015-02-26T04:57:48Z,FCC Allows City-Owned Internet Providers to Expand,Positive,3
+2015-02-26T07:42:07Z,Gogo Expects to Benefit From Rising Demand for In-Flight Internet,Negative,1
+2015-02-26T14:55:22Z,Obama Says New FCC Internet Rules Will Protect Innovation - White House,Negative,1
+2015-02-26T17:16:23Z,Internet traffic equality for all,Negative,1
+2015-02-26T18:54:29Z,"Terror Suspect Says Internet Chats About Women, Not Plot",Neutral,2
+2015-02-27T00:00:00Z,"F.C.C. Approves Net Neutrality Rules, Classifying Broadband Internet Service as a Utility",Negative,1
+2015-02-27T02:03:36Z,"Australian Laws on Storing Phone, Internet Records to Change",Negative,1
+2015-02-27T07:29:25Z,"China Censorship Sweep Deletes More Than 60,000 Internet Accounts",Negative,1
+2015-02-28T00:00:00Z,"The White and Gold (No, Blue and Black!) Dress That Melted the Internet",Negative,1
+2015-02-28T00:00:00Z,"Un vestido blanco y dorado (¡No, azul y negro!) sacude Internet",Neutral,2
+2015-03-01T09:15:16Z,New Internet Rules Set Up Industry's Next Battle,Negative,1
+2015-03-02T09:07:46Z,"Honeywell, OneWeb Partner to Offer Satellite Internet to Aircraft",Neutral,2
+2015-03-03T10:27:06Z,Supreme Court Allows Challenge to Colorado Internet Tax Law,Neutral,2
+2015-03-03T13:39:47Z,FCC Head Defends Internet Neutrality Rules on the Road,Neutral,2
+2015-03-04T00:00:00Z,"Upholding Internet Sales Tax Law, a Justice Invites a New Case",Neutral,2
+2015-03-04T11:52:56Z,Internet Invades Everything at Gadget Fair in Barcelona,Negative,1
+2015-03-06T11:30:00Z,"I.P.O. of HKBN, a Broadband Provider, Is Hong Kong’s Biggest This Year",Neutral,2
+2015-03-09T18:18:48Z,Apple Watch Moves Internet Out of Your Pocket,Negative,1
+2015-03-10T15:26:28Z,ACLU: Snowden Proved NSA Internet Spying Harms Americans,Negative,1
+2015-03-11T20:04:57Z,"Rocket Internet-Backed Helpling Expands in Asia, Mideast",Negative,1
+2015-03-12T04:47:10Z,"China's SAIC Motor, Alibaba to Invest $160 Million in Internet-Connected Cars",Negative,1
+2015-03-14T00:00:00Z,Islamist Websites in Turkey Manage to Evade Strict Internet Censorship,Negative,1
+2015-03-16T16:33:37Z,Cablevision Hopes to Attract Internet Customers With HBO Now,Neutral,2
+2015-03-17T00:00:00Z,Cablevision to Offer HBO Now Streaming Service for Internet Customers,Neutral,2
+2015-03-17T14:30:58Z,Congress Scrutinizes F.C.C. Following Release of New Internet Rules,Neutral,2
+2015-03-18T20:45:31Z,U.S. Trade Groups Seen Leading Lawsuits Against New Internet Rules,Neutral,2
+2015-03-19T18:34:36Z,Vince Neil Suing Consultant Over Control of Internet Pages,Negative,1
+2015-03-23T01:40:29Z,Uber Ties Up With Times Internet for India Expansion,Positive,3
+2015-03-24T03:06:20Z,Indian Court Rejects Ban on 'Offensive' Internet Messages,Negative,1
+2015-03-24T06:55:26Z,Battle for African Internet Users Stirs Freedom Fears,Negative,1
+2015-03-24T19:54:02Z,Salt Lake City Will Soon Offer Google's High-Speed Internet,Neutral,2
+2015-03-25T17:22:42Z,"USTelecom, Texas Internet Provider Sue Over Net Neutrality",Negative,1
+2015-03-25T17:45:38Z,United Internet 2014 Core Profit Up by a Third on New Customers,Negative,1
+2015-03-26T06:42:30Z,Daily Report: Facebook’s High-Stakes Bet on Drones to Deliver Internet Service,Negative,1
+2015-03-27T10:04:30Z,Internet Outages Reveal Gaps in US Broadband Infrastructure,Neutral,2
+2015-03-27T10:25:15Z,Internet Outages Reveal Gaps in US Broadband Infrastructure,Neutral,2
+2015-03-27T10:28:20Z,Things to Know About Internet Vulnerabilities in the US,Negative,1
+2015-03-27T10:39:33Z,"Backup Options for Internet Lines Can Be Costly, Complicated",Negative,1
+2015-03-27T13:07:00Z,"Beijing Pledges Free Internet, Optimum Use of 2008 Venues",Negative,1
+2015-03-30T05:30:14Z,The Path Toward Tomorrow&#8217;s Internet,Negative,1
+2015-03-30T06:03:06Z,Internet giants drive into the electric vehicle space,Neutral,2
+2015-03-30T08:45:11Z,Q. and A.: Adam Fisk on Evading Internet Censorship in China,Positive,3
+2015-03-30T18:48:53Z,Cuba Aims to Ramp Up Internet Access: U.S. State Department Official,Negative,1
+2015-03-31T00:01:16Z,IBM Scores Weather Data Deal and Starts Internet of Things Unit,Negative,1
+2015-03-31T00:02:18Z,IBM to Invest $3 Billion in 'Internet of Things' Unit,Negative,1
+2015-03-31T00:28:26Z,IBM Says to Invest $3 Billion in 'Internet of Things' Unit,Negative,1
+2015-04-01T14:47:08Z,"Dish's Internet TV, Sling, Gets HBO Service for $15 a Month",Negative,1
+2015-04-01T23:55:53Z,China Internet Agency Says Google Move 'Unacceptable',Negative,1
+2015-04-02T02:48:07Z,China Internet Authority Denounces Google Certificate Rejection,Negative,1
+2015-04-02T15:08:05Z,German pilot searched 'suicide' on internet in days before crash,Negative,1
