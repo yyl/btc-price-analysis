@@ -41,9 +41,12 @@ def bitcoin_news(news_url):
 
 ### scrape news from NYT through standard API
 ### topic: the keyword to search titles for
-def scrapeNYT(topic):
+### topic could be a series of keywords connected with comma,
+### which need to be parsed properly
+def scrapeNYT(topic, filename):
+    topics = topic.split(",")
     ## file to save news
-    data_file = 'data/nyt_%s.csv' % topic
+    data_file = 'data/%s.csv' % filename
     nyt_url = "http://api.nytimes.com/svc/search/v2/articlesearch.json"
     ## specify query start and end date
     bdate = '20120101'
@@ -52,7 +55,7 @@ def scrapeNYT(topic):
             'begin_date': bdate,
             'end_date':   edate,
             # filter based on Lucene syntax
-            'fq':         'headline:("%s")' % topic,
+            'fq':         'headline:("%s")' % '" "'.join(topics),
             'api-key':    secrets.NYT_API_KEY,
             'sort':       'oldest'}
     ## get the size of news first
@@ -76,15 +79,21 @@ def scrapeNYT(topic):
                     size -= len(docs)
 
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
-        print "usage:        python scrapeNews.py method_id input_param"
+    if len(sys.argv) != 4 or sys.argv[1] != "1":
+        print ""
+        print "============= script to scrape news from different sources ======="
+        print "============="
+        print "usage:        python scrapeNews.py method_id input_param file_name"
         print "method_id:    0 - google news (not working), 1 - NYT"
         print "input_param:  NYT - search keyword"
+        print "file_name:    the name of the output file"
+        print "============="
         exit(0)
     method_id = int(sys.argv[1])
     input_param = sys.argv[2]
+    fname = sys.argv[3]
     if method_id == 1:
-        scrapeNYT(input_param)
+        scrapeNYT(input_param, fname)
     '''
     # scrape every popular news source
     for src in newspaper.popular_urls():
