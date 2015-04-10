@@ -17,22 +17,26 @@ Our first objective is to see if the common algorithms that work well on regular
 - bayesian prediction, regression
 - performance evaluation
 
-## Note
+## 1. Process
 
 Should probably have the first complete set of mining process done. 
 
-- prepare dataset
-  - BTC price data: daily or weekly
-  - news headline data with sentiment score, daily or weekly
-  - merge them together, and then split into training and testing set (TODO: validation for time-series data?)
-- train the classifier
-  - write up explicitly the model
-- evaluation
-  - TODO: what is the metric to evaluate?
+#### google trend classifier
 
-It should include data preprocessing, training and testing/validation. Let's do first e.g. dual-average algorithm, which is essentially a decision tree model. Then, we move on to google trend algorithm, which is also a decision tree. In both cases, the problem renders to a classification problem. That is, given historic price, label say tomorrow's price to be rise or fall.
+This is roughly a rule-based classifier based on the search interest index of keyword "bitcoin". The problem is to classify weekly price trend to be either rise or fall. The algorithm is originally proposed in [a paper](http://www.nature.com/srep/2013/130425/srep01684/full/srep01684.html), and we modify it to fit in our problem setup.
 
-The original trading problem is different from a data mining problem, therefore it is necessary to model it into a regular mining problem.
+Data used: weekly bitcoin price, weekly search interest index of keyword "bitcoin"
+
+The algorithm works as follows:
+
+- compute the average search interest of past _k_ weeks: `s_avg`
+- compare search interest of current week `s_t` with `s_avg`
+  - if `s_t` > `s_avg` (search interest increases), label next week as `fall`
+  - otherwise (search interest decreases), label next week as `rise`
+
+possible extension and parameter tuning:
+
+This only parameter that one can change is the _k_ which decides how many previous weeks it takes to compute the previous average price. We can add one more parameter, which we call `diff`. In the second step, we label next week's price as `fall` iff `s_t` > `s_avg` + `diff`.
 
 ## Resources
 
