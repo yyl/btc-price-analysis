@@ -14,4 +14,4 @@ def getIndico(news_file):
     news_data['indico_score'] = np.vectorize(lambda x: indicoio.sentiment(x))(news_data.headline)
     news_data.to_csv(os.path.join(output_dir, output_file_name), index=False)
 
-getIndico("nyt_bitcoin.csv")
+getIndico("nyt_internet.csv")
