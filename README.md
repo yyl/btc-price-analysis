@@ -29,6 +29,37 @@ possible extension and parameter tuning:
 
 This only parameter that one can change is the _k_ which decides how many previous weeks it takes to compute the previous average price. We can add one more parameter, which we call `diff`. In the second step, we label next week's price as `fall` iff `s_t` > `s_avg` + `diff`.
 
+#### Bayesian Curve Fitting
+
+Bayesian curve fitting is a statistical technique to learn the pattern of previous datasets and make prediction for future values based on the model learned.
+
+Input: daily bit-coin price;
+Output: bit-coin price next day;
+
+The algorithm works as follows:
+- given the training data X and T, along with a new test point x, the goal is to predict the value of t. That is to evaluate the predictive distribution `p(t|x,X,T)`;
+- given the value of x, the corresponding value of t has a Gaussian distribution;
+  - `m(t) = beta*transpose(phi(x))*S*sum(phi(x_n)*t_n)`
+  - `S_inverse = alpha*I + beta*sum(phi(x_n)*transpose(phi(x)))`
+  - `phi(x) = [x^i...], i = 0, 1, ...M`
+  - where `alpha = 0.005`, `beta = 11.1`, `I` is the unit matrix;
+- the mean value is the predicted price for the next day.
+
+#### Moving Average Trend Classifier
+
+The moving average algorithm is to calculate the average value within a window size and then move to the next time period for the fixed size. Combining the moving average and any short-term price predition algorithm, we are able to classify Bit-coin price trend weekly and monthly, which works as follows:
+- sample the historical data weekly, which means the `sample rate` is 7;
+- predict each day's price for next week;
+- calculate moving average this week go back N `ave_now` and next week go back N `ave_future`;
+- if `ave_now > ave_future`, predict `0: decrease`, otherwise `1: increase`;
+- from results of each day next week, `vote` for the trend next week;
+- similarly `vote` for monthly trend with `weight` [0.6;0.25;0.1;0.05].
+
+## Evaluation
+
+We are using the `absolute mean error` and `relative error rate` to evalute our algorithms, and the two parameters are defined as follows:
+- `absolute_mean_error = sum(abs(predict_price-price))/size(price)`
+- `average_relative_error = sum(abs(predict_price/price - 1))/size(price)`
 
 ## Progress
 
@@ -38,6 +69,11 @@ This only parameter that one can change is the _k_ which decides how many previo
   - similar approach through analyzing news headlines (NYT, Guardian, etc) with sentiment analysis
 - bayesian prediction, regression
 - performance evaluation
+
+## To-do Next
+
+- use WEKA to get some visualized results for regression;
+- try SVM for price prediction;
 
 ## Resources
 
