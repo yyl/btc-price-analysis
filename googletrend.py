@@ -25,7 +25,7 @@ def truthLabel(cur,prev):
 	else:
 	    return -1
 
-def googletrend_preprocess():
+def preprocess():
 	"""preprocessing step of google trend classifier; return a DataFrame"""
 	## read search interest index (SII) data
 	trend = pd.read_csv("./data/trend.csv", converters={0:parseWeek})
@@ -47,7 +47,7 @@ def googletrend_preprocess():
 	trend_bpi['truth'] = np.vectorize(truthLabel)(trend_bpi.close_price, trend_bpi.close_price.shift(1))
 	return trend_bpi
 
-def googletrend(data, delta_t, diff, inverse=False):
+def algorithm(data, delta_t, diff, inverse=False):
 	"""rule-based classifier with google trend search data. Search index rises => price will fall next week.
 
     Keyword arguments:
@@ -76,7 +76,7 @@ def googletrend(data, delta_t, diff, inverse=False):
 		data.loc[data.SII_diff < diff, 'order'] = -1		
 	#return data
 
-def googletrend_evaluate(trend_bpi):
+def evaluate(trend_bpi):
 	"""return true positive rate anf false positive rate"""
 	## calculate evaluation metric
 	## price rise as positive class, fall as negative
