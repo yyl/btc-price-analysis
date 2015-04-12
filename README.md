@@ -12,7 +12,8 @@ Our first objective is to see if the common algorithms that work well on regular
 
 We have attempted to analyze the bitcoin price from several different perspectives with different algorithms.
 
-#### google trend classifier
+### google trend classifier
+***
 
 This is roughly a rule-based classifier based on the search interest index of keyword "bitcoin". The problem is to classify weekly price trend to be either rise or fall. The algorithm is originally proposed in [a paper](http://www.nature.com/srep/2013/130425/srep01684/full/srep01684.html), and we modify it to fit in our problem setup.
 
@@ -28,6 +29,18 @@ The algorithm works as follows:
 possible extension and parameter tuning:
 
 This only parameter that one can change is the _k_ which decides how many previous weeks it takes to compute the previous average price. We can add one more parameter, which we call `diff`. In the second step, we label next week's price as `fall` iff `s_t` > `s_avg` + `diff`.
+
+#### Results
+
+The first graph contains the ROC of the google trend classifier given different threshold `diff`. For each threshold, we computed different TPR/FPR by plugging different values for parameter `delta_t`. 
+
+![google trend classifier](https://github.com/yyl/btc-price-analysis/blob/master/plots/googletrend.jpg)
+
+The red line in the graph is the baseline "random-guess". It turns out the algorithm works worse than the baseline. We realize if we flip the algorithm logic, that is predict price rise if search interest increases, and falls otherwise, we get a better result. The updated ROC is showing below.
+
+![google trend classifier (inversed)](https://github.com/yyl/btc-price-analysis/blob/master/plots/googletrend_inverse.jpg)
+
+[TODO] add reasoning
 
 #### Bayesian Curve Fitting
 
