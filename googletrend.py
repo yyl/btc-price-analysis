@@ -7,7 +7,9 @@ import os
 import matplotlib.pyplot as plt
 import matplotlib
 import scriptine
-os.chdir("/root/Envs/btc-project/btc-price-analysis")
+## non-standard import
+import secrets
+os.chdir(secrets.ROOT)
 
 ##### constants
 time_format = "%Y-%m-%dT%H:%M:%S"

@@ -58,3 +58,4 @@ secrets.py
 .ipynb_checkpoints
 .DS_Store
 *.gz
+api_key.txt
