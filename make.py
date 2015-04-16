@@ -13,6 +13,9 @@ import scriptine
 import googletrend
 os.chdir("/root/Envs/btc-project/btc-price-analysis")
 
+def sentiment_command(algorithm=0):
+	pass
+
 def googletrend_command(delta_t, threshold=0.0, inverse=False):
 	"""the command to run google trend algorithm.
 
