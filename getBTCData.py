@@ -4,8 +4,8 @@ import requests
 from datetime import datetime, timedelta
 import re
 from dateutil import tz
+from dateutil.parser import parse
 import os
-os.chdir("../")
 
 # endpoint for historical price
 REQUEST = "https://api.coinbase.com/v1/prices/historical"
@@ -35,13 +35,18 @@ MARKET_FILE = './data/market.csv'
 PRICE_FILE = './data/price.csv'
 
 def price():
-    with open(PRICE_FILE, "a+") as f:
-        for i in xrange(1, 180):
+    with open(PRICE_FILE, "w+") as f:
+        for i in xrange(1, 120):
             print "page %d..." % i
             param = {'page': i}
             r = requests.get(REQUEST, params=param)
             if r.status_code == 200:
-                f.write(r.text+"\n")
+                lines = r.text.split('\n')
+                for line in lines:
+                    # convert time to utc timezone
+                    time, price = line.split(',')
+                    dt_obj = parse(time)
+                    f.write("%s,%s\n" % (dt_obj.astimezone(tz.tzutc()).strftime(format=DT_FORMAT), price))
 
 # volume and price data from Exchange API
 # the data represents the exchanged volume and the close price for each day
@@ -77,4 +82,4 @@ def marketData():
 
 if __name__ == '__main__':
     price()
-    marketData()
+    #marketData()
