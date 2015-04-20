@@ -42,6 +42,10 @@ The red line in the graph is the baseline "random-guess". It turns out the algor
 
 [TODO] add reasoning
 
+### News sentiment on BTC price
+
+[a visual](http://nbviewer.ipython.org/github/yyl/btc-price-analysis/blob/master/notes/news_price.ipynb)
+
 #### Bayesian Curve Fitting
 
 Bayesian curve fitting is a statistical technique to learn the pattern of previous datasets and make prediction for future values based on the model learned.
