@@ -11,17 +11,15 @@ import ggplot as gg
 import scriptine
 ## self import
 import googletrend
+import sentiment_algo
 os.chdir("/root/Envs/btc-project/btc-price-analysis")
-
-def sentiment_command(algorithm=0):
-	pass
 
 def googletrend_command(delta_t, threshold=0.0, inverse=False):
 	"""the command to run google trend algorithm.
 
-	:param delta_t: the upper bound for original delta_t parameter
+	:param delta_t:   the upper bound for original delta_t parameter
     :param threshold: upper bound for the threshold of differentiating two classes
-    :param inverse: whether to inverse the classifier
+    :param inverse:   whether to inverse the classifier
 	"""
 	## handle filepath and title based on parameter inverse
 	filename = "googletrend"
@@ -62,6 +60,17 @@ def googletrend_command(delta_t, threshold=0.0, inverse=False):
 			gg.geom_point() + \
 			gg.geom_line()
 	gg.ggsave(plot=graph, filename=filepath, width=6, height=6, dpi=100)
+
+def sentiment_command(news_file, mode=0):
+	"""the command to run sentiment analysis related stuff.
+
+	:param news_file:    the filename of news data
+	:param mode:  
+						0 -- run sentiment analysis (TODO)\n
+						1 -- run interpolation on news_file (default: False)
+	"""
+	if mode == 1:
+		sentiment_algo.interpolate_news(news_file)
 
 if __name__ == "__main__":
     scriptine.run()
