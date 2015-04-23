@@ -13,7 +13,7 @@ import secrets
 from alchemyapi import AlchemyAPI
 ## env config
 os.chdir(secrets.ROOT)
-output_dir = "./data"
+output_dir = "./samples"
 input_dir = "./data"
 
 def alchemy_score(x):
